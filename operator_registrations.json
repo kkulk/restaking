@@ -1,0 +1,2457 @@
+{
+    "lastUpdated": 1717807471,
+    "value": [
+        {
+            "operatorAddress": "0x4cd2086e1d708e65db5d4f5712a9ca46ed4bbd0a",
+            "avsRegistrations": {
+                "0x870679e138bcdf293b7ff14dd44b70fc97e12fc0": true,
+                "0x9fc952bdcbb7daca7d420fa55b942405b073a89d": true,
+                "0xd25c2c5802198cb8541987b73a8db4c9bcae5cc7": true,
+                "0x71a77037870169d47aad6c2c9360861a4c0df2bf": true,
+                "0x6026b61bdd2252160691cb3f6005b6b72e0ec044": true,
+                "0x35f4f28a8d3ff20eed10e087e8f96ea2641e6aa2": true,
+                "0x23221c5bb90c7c57ecc1e75513e2e4257673f0ef": true,
+                "0xed2f4d90b073128ae6769a9a8d51547b1df766c8": true,
+                "0xe5445838c475a2980e6a88054ff1514230b83aeb": true,
+                "0xd50e0931703302b080880c45148f5d83ea66ae2a": true,
+                "0xf7fcff55d5fdaf2c3bbeb140be5e62a2c7d26db3": true,
+                "0x1f2c296448f692af840843d993ffc0546619dcdb": true,
+                "0x22cac0e6a1465f043428e8aef737b3cb09d0eeda": true,
+                "0x07e26bf8060e33fa3771d88128b75493750515c1": true
+            }
+        },
+        {
+            "operatorAddress": "0xe5801326014db4f6729264db38f5f5430bc2fbfa",
+            "avsRegistrations": {
+                "0x870679e138bcdf293b7ff14dd44b70fc97e12fc0": true,
+                "0x9fc952bdcbb7daca7d420fa55b942405b073a89d": true,
+                "0x71a77037870169d47aad6c2c9360861a4c0df2bf": true,
+                "0x6026b61bdd2252160691cb3f6005b6b72e0ec044": true,
+                "0xd25c2c5802198cb8541987b73a8db4c9bcae5cc7": true,
+                "0x35f4f28a8d3ff20eed10e087e8f96ea2641e6aa2": true,
+                "0x23221c5bb90c7c57ecc1e75513e2e4257673f0ef": true,
+                "0xed2f4d90b073128ae6769a9a8d51547b1df766c8": true,
+                "0xe5445838c475a2980e6a88054ff1514230b83aeb": true,
+                "0xd50e0931703302b080880c45148f5d83ea66ae2a": true,
+                "0xf7fcff55d5fdaf2c3bbeb140be5e62a2c7d26db3": true,
+                "0x22cac0e6a1465f043428e8aef737b3cb09d0eeda": true,
+                "0x1f2c296448f692af840843d993ffc0546619dcdb": true
+            }
+        },
+        {
+            "operatorAddress": "0xf80b7ba7e778abf08a63426886ca40189c7ef48a",
+            "avsRegistrations": {
+                "0x870679e138bcdf293b7ff14dd44b70fc97e12fc0": true,
+                "0x9fc952bdcbb7daca7d420fa55b942405b073a89d": true,
+                "0x23221c5bb90c7c57ecc1e75513e2e4257673f0ef": true,
+                "0x35f4f28a8d3ff20eed10e087e8f96ea2641e6aa2": true,
+                "0x22cac0e6a1465f043428e8aef737b3cb09d0eeda": true
+            }
+        },
+        {
+            "operatorAddress": "0xd172a86a0f250aec23ee19c759a8e73621fe3c10",
+            "avsRegistrations": {
+                "0x870679e138bcdf293b7ff14dd44b70fc97e12fc0": true,
+                "0x9fc952bdcbb7daca7d420fa55b942405b073a89d": true,
+                "0x35f4f28a8d3ff20eed10e087e8f96ea2641e6aa2": true,
+                "0x71a77037870169d47aad6c2c9360861a4c0df2bf": true,
+                "0x6026b61bdd2252160691cb3f6005b6b72e0ec044": true,
+                "0x23221c5bb90c7c57ecc1e75513e2e4257673f0ef": true,
+                "0xed2f4d90b073128ae6769a9a8d51547b1df766c8": true,
+                "0xd25c2c5802198cb8541987b73a8db4c9bcae5cc7": true,
+                "0xe5445838c475a2980e6a88054ff1514230b83aeb": true,
+                "0xf7fcff55d5fdaf2c3bbeb140be5e62a2c7d26db3": true,
+                "0x22cac0e6a1465f043428e8aef737b3cb09d0eeda": true
+            }
+        },
+        {
+            "operatorAddress": "0xa3ff1491088715d140bc821a28287cb3f71b43e4",
+            "avsRegistrations": {
+                "0x870679e138bcdf293b7ff14dd44b70fc97e12fc0": true,
+                "0xd25c2c5802198cb8541987b73a8db4c9bcae5cc7": true,
+                "0x9fc952bdcbb7daca7d420fa55b942405b073a89d": true,
+                "0x23221c5bb90c7c57ecc1e75513e2e4257673f0ef": true,
+                "0x35f4f28a8d3ff20eed10e087e8f96ea2641e6aa2": true,
+                "0xed2f4d90b073128ae6769a9a8d51547b1df766c8": true,
+                "0xe5445838c475a2980e6a88054ff1514230b83aeb": true,
+                "0xf7fcff55d5fdaf2c3bbeb140be5e62a2c7d26db3": true,
+                "0x22cac0e6a1465f043428e8aef737b3cb09d0eeda": true
+            }
+        },
+        {
+            "operatorAddress": "0x2e68d03f2234895b3ba5899b80785e2598ed7fac",
+            "avsRegistrations": {
+                "0x870679e138bcdf293b7ff14dd44b70fc97e12fc0": true,
+                "0xd25c2c5802198cb8541987b73a8db4c9bcae5cc7": true,
+                "0x9fc952bdcbb7daca7d420fa55b942405b073a89d": true,
+                "0x6026b61bdd2252160691cb3f6005b6b72e0ec044": true,
+                "0x71a77037870169d47aad6c2c9360861a4c0df2bf": true,
+                "0x35f4f28a8d3ff20eed10e087e8f96ea2641e6aa2": true,
+                "0x23221c5bb90c7c57ecc1e75513e2e4257673f0ef": true,
+                "0xed2f4d90b073128ae6769a9a8d51547b1df766c8": true,
+                "0xe5445838c475a2980e6a88054ff1514230b83aeb": true,
+                "0xd50e0931703302b080880c45148f5d83ea66ae2a": true,
+                "0xf7fcff55d5fdaf2c3bbeb140be5e62a2c7d26db3": true,
+                "0x22cac0e6a1465f043428e8aef737b3cb09d0eeda": true,
+                "0x1f2c296448f692af840843d993ffc0546619dcdb": true
+            }
+        },
+        {
+            "operatorAddress": "0x6573629204b65faac121c1b556b91a694d0e23c8",
+            "avsRegistrations": {
+                "0x870679e138bcdf293b7ff14dd44b70fc97e12fc0": true,
+                "0x35f4f28a8d3ff20eed10e087e8f96ea2641e6aa2": true,
+                "0x22cac0e6a1465f043428e8aef737b3cb09d0eeda": true
+            }
+        },
+        {
+            "operatorAddress": "0xdb9afbdcfeca94dfb25790c900c527969e78bd3c",
+            "avsRegistrations": {
+                "0x870679e138bcdf293b7ff14dd44b70fc97e12fc0": true,
+                "0xed2f4d90b073128ae6769a9a8d51547b1df766c8": true
+            }
+        },
+        {
+            "operatorAddress": "0x529ec9ac9a80428cf8c92557f2eb1b336616f543",
+            "avsRegistrations": {
+                "0x870679e138bcdf293b7ff14dd44b70fc97e12fc0": true,
+                "0x9fc952bdcbb7daca7d420fa55b942405b073a89d": true,
+                "0x71a77037870169d47aad6c2c9360861a4c0df2bf": true,
+                "0x6026b61bdd2252160691cb3f6005b6b72e0ec044": true,
+                "0x35f4f28a8d3ff20eed10e087e8f96ea2641e6aa2": true,
+                "0xd25c2c5802198cb8541987b73a8db4c9bcae5cc7": true,
+                "0x23221c5bb90c7c57ecc1e75513e2e4257673f0ef": true,
+                "0xed2f4d90b073128ae6769a9a8d51547b1df766c8": true,
+                "0xe5445838c475a2980e6a88054ff1514230b83aeb": true,
+                "0xf7fcff55d5fdaf2c3bbeb140be5e62a2c7d26db3": true,
+                "0xd50e0931703302b080880c45148f5d83ea66ae2a": true
+            }
+        },
+        {
+            "operatorAddress": "0x5accc90436492f24e6af278569691e2c942a676d",
+            "avsRegistrations": {
+                "0x870679e138bcdf293b7ff14dd44b70fc97e12fc0": true,
+                "0xd25c2c5802198cb8541987b73a8db4c9bcae5cc7": true,
+                "0x23221c5bb90c7c57ecc1e75513e2e4257673f0ef": true,
+                "0x9fc952bdcbb7daca7d420fa55b942405b073a89d": true,
+                "0xed2f4d90b073128ae6769a9a8d51547b1df766c8": true,
+                "0x71a77037870169d47aad6c2c9360861a4c0df2bf": true,
+                "0x6026b61bdd2252160691cb3f6005b6b72e0ec044": true,
+                "0x35f4f28a8d3ff20eed10e087e8f96ea2641e6aa2": false,
+                "0xe5445838c475a2980e6a88054ff1514230b83aeb": true,
+                "0xf7fcff55d5fdaf2c3bbeb140be5e62a2c7d26db3": true,
+                "0x22cac0e6a1465f043428e8aef737b3cb09d0eeda": true
+            }
+        },
+        {
+            "operatorAddress": "0xb1ea8424075a71cd97f95ed64069241ffd4833be",
+            "avsRegistrations": {
+                "0x870679e138bcdf293b7ff14dd44b70fc97e12fc0": true,
+                "0x9fc952bdcbb7daca7d420fa55b942405b073a89d": true,
+                "0xd25c2c5802198cb8541987b73a8db4c9bcae5cc7": true,
+                "0x23221c5bb90c7c57ecc1e75513e2e4257673f0ef": true,
+                "0xed2f4d90b073128ae6769a9a8d51547b1df766c8": true,
+                "0x35f4f28a8d3ff20eed10e087e8f96ea2641e6aa2": true,
+                "0x22cac0e6a1465f043428e8aef737b3cb09d0eeda": true,
+                "0xf7fcff55d5fdaf2c3bbeb140be5e62a2c7d26db3": true
+            }
+        },
+        {
+            "operatorAddress": "0x1f8c8b1d78d01bcc42ebdd34fae60181bd697662",
+            "avsRegistrations": {
+                "0x870679e138bcdf293b7ff14dd44b70fc97e12fc0": true,
+                "0x9fc952bdcbb7daca7d420fa55b942405b073a89d": true,
+                "0x71a77037870169d47aad6c2c9360861a4c0df2bf": true,
+                "0x35f4f28a8d3ff20eed10e087e8f96ea2641e6aa2": true,
+                "0x23221c5bb90c7c57ecc1e75513e2e4257673f0ef": true,
+                "0xd25c2c5802198cb8541987b73a8db4c9bcae5cc7": true,
+                "0xed2f4d90b073128ae6769a9a8d51547b1df766c8": true,
+                "0xe5445838c475a2980e6a88054ff1514230b83aeb": true,
+                "0x6026b61bdd2252160691cb3f6005b6b72e0ec044": true,
+                "0xd50e0931703302b080880c45148f5d83ea66ae2a": true,
+                "0xf7fcff55d5fdaf2c3bbeb140be5e62a2c7d26db3": true,
+                "0x22cac0e6a1465f043428e8aef737b3cb09d0eeda": true
+            }
+        },
+        {
+            "operatorAddress": "0x9c5469e242532e89ff8666f6deb0a5dd8d7c8925",
+            "avsRegistrations": {
+                "0x870679e138bcdf293b7ff14dd44b70fc97e12fc0": true,
+                "0x23221c5bb90c7c57ecc1e75513e2e4257673f0ef": true,
+                "0xed2f4d90b073128ae6769a9a8d51547b1df766c8": true,
+                "0x9fc952bdcbb7daca7d420fa55b942405b073a89d": true,
+                "0x22cac0e6a1465f043428e8aef737b3cb09d0eeda": true
+            }
+        },
+        {
+            "operatorAddress": "0x67fc8951c64e6ff8921fe6cd004c2224ec7eecfd",
+            "avsRegistrations": {
+                "0x870679e138bcdf293b7ff14dd44b70fc97e12fc0": true,
+                "0x23221c5bb90c7c57ecc1e75513e2e4257673f0ef": true,
+                "0xd25c2c5802198cb8541987b73a8db4c9bcae5cc7": true
+            }
+        },
+        {
+            "operatorAddress": "0x3ca973165bc7d1dcd7adff778ae1892b15914552",
+            "avsRegistrations": {
+                "0x870679e138bcdf293b7ff14dd44b70fc97e12fc0": true
+            }
+        },
+        {
+            "operatorAddress": "0xa83e07353a9ed2af88e7281a2fa7719c01356d8e",
+            "avsRegistrations": {
+                "0xd25c2c5802198cb8541987b73a8db4c9bcae5cc7": true,
+                "0x71a77037870169d47aad6c2c9360861a4c0df2bf": true,
+                "0x870679e138bcdf293b7ff14dd44b70fc97e12fc0": true,
+                "0x6026b61bdd2252160691cb3f6005b6b72e0ec044": true,
+                "0x9fc952bdcbb7daca7d420fa55b942405b073a89d": true,
+                "0x35f4f28a8d3ff20eed10e087e8f96ea2641e6aa2": true,
+                "0x23221c5bb90c7c57ecc1e75513e2e4257673f0ef": true,
+                "0xed2f4d90b073128ae6769a9a8d51547b1df766c8": true,
+                "0xe5445838c475a2980e6a88054ff1514230b83aeb": true,
+                "0xd50e0931703302b080880c45148f5d83ea66ae2a": true,
+                "0xf7fcff55d5fdaf2c3bbeb140be5e62a2c7d26db3": true,
+                "0x22cac0e6a1465f043428e8aef737b3cb09d0eeda": true,
+                "0x1f2c296448f692af840843d993ffc0546619dcdb": true
+            }
+        },
+        {
+            "operatorAddress": "0x938270c4b0c634484bf2eb091cdc2973ac9e416e",
+            "avsRegistrations": {
+                "0x870679e138bcdf293b7ff14dd44b70fc97e12fc0": true,
+                "0xd25c2c5802198cb8541987b73a8db4c9bcae5cc7": true,
+                "0x23221c5bb90c7c57ecc1e75513e2e4257673f0ef": true,
+                "0x35f4f28a8d3ff20eed10e087e8f96ea2641e6aa2": true,
+                "0xe5445838c475a2980e6a88054ff1514230b83aeb": true
+            }
+        },
+        {
+            "operatorAddress": "0xa305f083428f6ddb9a287d92e0aa109ea05f342a",
+            "avsRegistrations": {
+                "0x870679e138bcdf293b7ff14dd44b70fc97e12fc0": true,
+                "0x71a77037870169d47aad6c2c9360861a4c0df2bf": true,
+                "0x6026b61bdd2252160691cb3f6005b6b72e0ec044": true,
+                "0xe5445838c475a2980e6a88054ff1514230b83aeb": true,
+                "0x23221c5bb90c7c57ecc1e75513e2e4257673f0ef": true,
+                "0xd50e0931703302b080880c45148f5d83ea66ae2a": true,
+                "0xd25c2c5802198cb8541987b73a8db4c9bcae5cc7": true,
+                "0xf7fcff55d5fdaf2c3bbeb140be5e62a2c7d26db3": true
+            }
+        },
+        {
+            "operatorAddress": "0xcaaeb411241ac87b5846797c15bf339a54a1d736",
+            "avsRegistrations": {
+                "0x870679e138bcdf293b7ff14dd44b70fc97e12fc0": true,
+                "0x9fc952bdcbb7daca7d420fa55b942405b073a89d": true,
+                "0x71a77037870169d47aad6c2c9360861a4c0df2bf": true,
+                "0x6026b61bdd2252160691cb3f6005b6b72e0ec044": true,
+                "0x35f4f28a8d3ff20eed10e087e8f96ea2641e6aa2": true,
+                "0xd25c2c5802198cb8541987b73a8db4c9bcae5cc7": true,
+                "0x23221c5bb90c7c57ecc1e75513e2e4257673f0ef": true,
+                "0xed2f4d90b073128ae6769a9a8d51547b1df766c8": true,
+                "0xe5445838c475a2980e6a88054ff1514230b83aeb": true,
+                "0xf7fcff55d5fdaf2c3bbeb140be5e62a2c7d26db3": true,
+                "0x22cac0e6a1465f043428e8aef737b3cb09d0eeda": true
+            }
+        },
+        {
+            "operatorAddress": "0xb81b18c988bfc7d131fca985a9c531f325e98a2f",
+            "avsRegistrations": {
+                "0x870679e138bcdf293b7ff14dd44b70fc97e12fc0": true,
+                "0x23221c5bb90c7c57ecc1e75513e2e4257673f0ef": true,
+                "0xd25c2c5802198cb8541987b73a8db4c9bcae5cc7": true,
+                "0xed2f4d90b073128ae6769a9a8d51547b1df766c8": true
+            }
+        },
+        {
+            "operatorAddress": "0xeba5b526b5a0636196bacb3b137be143adcb6ca6",
+            "avsRegistrations": {
+                "0x870679e138bcdf293b7ff14dd44b70fc97e12fc0": true,
+                "0xd25c2c5802198cb8541987b73a8db4c9bcae5cc7": true,
+                "0x9fc952bdcbb7daca7d420fa55b942405b073a89d": true,
+                "0x71a77037870169d47aad6c2c9360861a4c0df2bf": true,
+                "0x6026b61bdd2252160691cb3f6005b6b72e0ec044": true,
+                "0x35f4f28a8d3ff20eed10e087e8f96ea2641e6aa2": true,
+                "0x23221c5bb90c7c57ecc1e75513e2e4257673f0ef": true,
+                "0xed2f4d90b073128ae6769a9a8d51547b1df766c8": true
+            }
+        },
+        {
+            "operatorAddress": "0xea9f738ead0b011030d65a50a43cac5ec67fd3fd",
+            "avsRegistrations": {
+                "0xd25c2c5802198cb8541987b73a8db4c9bcae5cc7": true,
+                "0x71a77037870169d47aad6c2c9360861a4c0df2bf": true,
+                "0x6026b61bdd2252160691cb3f6005b6b72e0ec044": true,
+                "0x9fc952bdcbb7daca7d420fa55b942405b073a89d": true,
+                "0x35f4f28a8d3ff20eed10e087e8f96ea2641e6aa2": true,
+                "0x23221c5bb90c7c57ecc1e75513e2e4257673f0ef": true,
+                "0xed2f4d90b073128ae6769a9a8d51547b1df766c8": true,
+                "0x870679e138bcdf293b7ff14dd44b70fc97e12fc0": true,
+                "0xe5445838c475a2980e6a88054ff1514230b83aeb": true,
+                "0xd50e0931703302b080880c45148f5d83ea66ae2a": true,
+                "0xf7fcff55d5fdaf2c3bbeb140be5e62a2c7d26db3": true,
+                "0x22cac0e6a1465f043428e8aef737b3cb09d0eeda": true,
+                "0x1f2c296448f692af840843d993ffc0546619dcdb": true
+            }
+        },
+        {
+            "operatorAddress": "0xc1381fab25899cbb32a485954ea33b1b73a64776",
+            "avsRegistrations": {
+                "0x71a77037870169d47aad6c2c9360861a4c0df2bf": true,
+                "0x6026b61bdd2252160691cb3f6005b6b72e0ec044": true,
+                "0xd25c2c5802198cb8541987b73a8db4c9bcae5cc7": true,
+                "0xed2f4d90b073128ae6769a9a8d51547b1df766c8": true,
+                "0x35f4f28a8d3ff20eed10e087e8f96ea2641e6aa2": true,
+                "0x870679e138bcdf293b7ff14dd44b70fc97e12fc0": true,
+                "0xd50e0931703302b080880c45148f5d83ea66ae2a": true,
+                "0xe5445838c475a2980e6a88054ff1514230b83aeb": true,
+                "0x1f2c296448f692af840843d993ffc0546619dcdb": true,
+                "0x22cac0e6a1465f043428e8aef737b3cb09d0eeda": true
+            }
+        },
+        {
+            "operatorAddress": "0x09e6eb09213bdd3698bd8afb43ec3cb0ecff683e",
+            "avsRegistrations": {
+                "0x9fc952bdcbb7daca7d420fa55b942405b073a89d": true,
+                "0x35f4f28a8d3ff20eed10e087e8f96ea2641e6aa2": true,
+                "0xd25c2c5802198cb8541987b73a8db4c9bcae5cc7": true,
+                "0x23221c5bb90c7c57ecc1e75513e2e4257673f0ef": true,
+                "0x71a77037870169d47aad6c2c9360861a4c0df2bf": true,
+                "0x6026b61bdd2252160691cb3f6005b6b72e0ec044": true,
+                "0x870679e138bcdf293b7ff14dd44b70fc97e12fc0": true,
+                "0xed2f4d90b073128ae6769a9a8d51547b1df766c8": true,
+                "0xe5445838c475a2980e6a88054ff1514230b83aeb": true,
+                "0xd50e0931703302b080880c45148f5d83ea66ae2a": true,
+                "0xf7fcff55d5fdaf2c3bbeb140be5e62a2c7d26db3": true,
+                "0x1f2c296448f692af840843d993ffc0546619dcdb": true,
+                "0x22cac0e6a1465f043428e8aef737b3cb09d0eeda": true
+            }
+        },
+        {
+            "operatorAddress": "0x6c107920c18bee5169abcfefb702467151de7688",
+            "avsRegistrations": {
+                "0xd25c2c5802198cb8541987b73a8db4c9bcae5cc7": true,
+                "0x9fc952bdcbb7daca7d420fa55b942405b073a89d": true,
+                "0x71a77037870169d47aad6c2c9360861a4c0df2bf": true,
+                "0x6026b61bdd2252160691cb3f6005b6b72e0ec044": true,
+                "0x23221c5bb90c7c57ecc1e75513e2e4257673f0ef": true,
+                "0x35f4f28a8d3ff20eed10e087e8f96ea2641e6aa2": true,
+                "0xed2f4d90b073128ae6769a9a8d51547b1df766c8": true,
+                "0xe5445838c475a2980e6a88054ff1514230b83aeb": true,
+                "0xf7fcff55d5fdaf2c3bbeb140be5e62a2c7d26db3": true,
+                "0x870679e138bcdf293b7ff14dd44b70fc97e12fc0": true,
+                "0x22cac0e6a1465f043428e8aef737b3cb09d0eeda": true
+            }
+        },
+        {
+            "operatorAddress": "0xccaa639d3afdc77b562a4673b2ecde6770349675",
+            "avsRegistrations": {
+                "0x870679e138bcdf293b7ff14dd44b70fc97e12fc0": true,
+                "0x35f4f28a8d3ff20eed10e087e8f96ea2641e6aa2": true,
+                "0x9fc952bdcbb7daca7d420fa55b942405b073a89d": true,
+                "0xd25c2c5802198cb8541987b73a8db4c9bcae5cc7": true,
+                "0x23221c5bb90c7c57ecc1e75513e2e4257673f0ef": true,
+                "0x71a77037870169d47aad6c2c9360861a4c0df2bf": true,
+                "0x6026b61bdd2252160691cb3f6005b6b72e0ec044": true
+            }
+        },
+        {
+            "operatorAddress": "0x89d60c9bcd5e6879e1f9440917b75502df8ae020",
+            "avsRegistrations": {
+                "0x71a77037870169d47aad6c2c9360861a4c0df2bf": true,
+                "0x6026b61bdd2252160691cb3f6005b6b72e0ec044": true,
+                "0x9fc952bdcbb7daca7d420fa55b942405b073a89d": true,
+                "0xd25c2c5802198cb8541987b73a8db4c9bcae5cc7": true,
+                "0x35f4f28a8d3ff20eed10e087e8f96ea2641e6aa2": true,
+                "0x23221c5bb90c7c57ecc1e75513e2e4257673f0ef": true,
+                "0x870679e138bcdf293b7ff14dd44b70fc97e12fc0": true,
+                "0xed2f4d90b073128ae6769a9a8d51547b1df766c8": true,
+                "0xe5445838c475a2980e6a88054ff1514230b83aeb": true,
+                "0xd50e0931703302b080880c45148f5d83ea66ae2a": true,
+                "0xf7fcff55d5fdaf2c3bbeb140be5e62a2c7d26db3": true,
+                "0x1f2c296448f692af840843d993ffc0546619dcdb": true,
+                "0x22cac0e6a1465f043428e8aef737b3cb09d0eeda": true
+            }
+        },
+        {
+            "operatorAddress": "0x617b23c98b8992d60c9913cb4f8aefadbb70c9d2",
+            "avsRegistrations": {
+                "0x71a77037870169d47aad6c2c9360861a4c0df2bf": true,
+                "0x6026b61bdd2252160691cb3f6005b6b72e0ec044": true,
+                "0xd25c2c5802198cb8541987b73a8db4c9bcae5cc7": true,
+                "0x9fc952bdcbb7daca7d420fa55b942405b073a89d": true,
+                "0x35f4f28a8d3ff20eed10e087e8f96ea2641e6aa2": true,
+                "0x23221c5bb90c7c57ecc1e75513e2e4257673f0ef": true,
+                "0x870679e138bcdf293b7ff14dd44b70fc97e12fc0": true,
+                "0xe5445838c475a2980e6a88054ff1514230b83aeb": true,
+                "0xd50e0931703302b080880c45148f5d83ea66ae2a": true,
+                "0x22cac0e6a1465f043428e8aef737b3cb09d0eeda": true
+            }
+        },
+        {
+            "operatorAddress": "0xa42cd0029f681b08b61f535e846f2a36f468c1c2",
+            "avsRegistrations": {
+                "0x71a77037870169d47aad6c2c9360861a4c0df2bf": true,
+                "0x6026b61bdd2252160691cb3f6005b6b72e0ec044": true,
+                "0x870679e138bcdf293b7ff14dd44b70fc97e12fc0": true,
+                "0xd25c2c5802198cb8541987b73a8db4c9bcae5cc7": true,
+                "0x9fc952bdcbb7daca7d420fa55b942405b073a89d": true,
+                "0x35f4f28a8d3ff20eed10e087e8f96ea2641e6aa2": true,
+                "0x23221c5bb90c7c57ecc1e75513e2e4257673f0ef": true,
+                "0xed2f4d90b073128ae6769a9a8d51547b1df766c8": true,
+                "0xe5445838c475a2980e6a88054ff1514230b83aeb": true,
+                "0xd50e0931703302b080880c45148f5d83ea66ae2a": true,
+                "0xf7fcff55d5fdaf2c3bbeb140be5e62a2c7d26db3": true,
+                "0x1f2c296448f692af840843d993ffc0546619dcdb": true,
+                "0x22cac0e6a1465f043428e8aef737b3cb09d0eeda": true
+            }
+        },
+        {
+            "operatorAddress": "0x110af279aaffb0d182697d7fc87653838aa5945e",
+            "avsRegistrations": {
+                "0x870679e138bcdf293b7ff14dd44b70fc97e12fc0": true,
+                "0x9fc952bdcbb7daca7d420fa55b942405b073a89d": true,
+                "0xd25c2c5802198cb8541987b73a8db4c9bcae5cc7": true,
+                "0x71a77037870169d47aad6c2c9360861a4c0df2bf": true,
+                "0xe5445838c475a2980e6a88054ff1514230b83aeb": true,
+                "0x6026b61bdd2252160691cb3f6005b6b72e0ec044": true,
+                "0xf7fcff55d5fdaf2c3bbeb140be5e62a2c7d26db3": true,
+                "0x35f4f28a8d3ff20eed10e087e8f96ea2641e6aa2": true,
+                "0x22cac0e6a1465f043428e8aef737b3cb09d0eeda": true
+            }
+        },
+        {
+            "operatorAddress": "0xe483c7f156b25da9be6220049e5111bb41c4c535",
+            "avsRegistrations": {
+                "0x71a77037870169d47aad6c2c9360861a4c0df2bf": true,
+                "0x6026b61bdd2252160691cb3f6005b6b72e0ec044": true,
+                "0xd25c2c5802198cb8541987b73a8db4c9bcae5cc7": true,
+                "0x9fc952bdcbb7daca7d420fa55b942405b073a89d": true,
+                "0x35f4f28a8d3ff20eed10e087e8f96ea2641e6aa2": true,
+                "0x23221c5bb90c7c57ecc1e75513e2e4257673f0ef": true,
+                "0x870679e138bcdf293b7ff14dd44b70fc97e12fc0": true,
+                "0xed2f4d90b073128ae6769a9a8d51547b1df766c8": true,
+                "0xe5445838c475a2980e6a88054ff1514230b83aeb": true,
+                "0xd50e0931703302b080880c45148f5d83ea66ae2a": true,
+                "0xf7fcff55d5fdaf2c3bbeb140be5e62a2c7d26db3": true,
+                "0x22cac0e6a1465f043428e8aef737b3cb09d0eeda": true
+            }
+        },
+        {
+            "operatorAddress": "0x53730f4088b116c807875eb67f71cbb1b065f530",
+            "avsRegistrations": {
+                "0x71a77037870169d47aad6c2c9360861a4c0df2bf": true,
+                "0x6026b61bdd2252160691cb3f6005b6b72e0ec044": true,
+                "0xd25c2c5802198cb8541987b73a8db4c9bcae5cc7": true,
+                "0x35f4f28a8d3ff20eed10e087e8f96ea2641e6aa2": true,
+                "0x23221c5bb90c7c57ecc1e75513e2e4257673f0ef": true,
+                "0xed2f4d90b073128ae6769a9a8d51547b1df766c8": true,
+                "0x870679e138bcdf293b7ff14dd44b70fc97e12fc0": true,
+                "0xf7fcff55d5fdaf2c3bbeb140be5e62a2c7d26db3": true
+            }
+        },
+        {
+            "operatorAddress": "0x825196afb533c36743da9eaafc0e6153d2ca8a93",
+            "avsRegistrations": {
+                "0xd25c2c5802198cb8541987b73a8db4c9bcae5cc7": true,
+                "0x870679e138bcdf293b7ff14dd44b70fc97e12fc0": true
+            }
+        },
+        {
+            "operatorAddress": "0xdbed88d83176316fc46797b43adee927dc2ff2f5",
+            "avsRegistrations": {
+                "0x870679e138bcdf293b7ff14dd44b70fc97e12fc0": true,
+                "0x35f4f28a8d3ff20eed10e087e8f96ea2641e6aa2": true,
+                "0x9fc952bdcbb7daca7d420fa55b942405b073a89d": true,
+                "0x71a77037870169d47aad6c2c9360861a4c0df2bf": true,
+                "0x23221c5bb90c7c57ecc1e75513e2e4257673f0ef": true,
+                "0x6026b61bdd2252160691cb3f6005b6b72e0ec044": true,
+                "0xd25c2c5802198cb8541987b73a8db4c9bcae5cc7": true,
+                "0xed2f4d90b073128ae6769a9a8d51547b1df766c8": true,
+                "0xe5445838c475a2980e6a88054ff1514230b83aeb": true,
+                "0xf7fcff55d5fdaf2c3bbeb140be5e62a2c7d26db3": true,
+                "0x22cac0e6a1465f043428e8aef737b3cb09d0eeda": true
+            }
+        },
+        {
+            "operatorAddress": "0x71c6f7ed8c2d4925d0baf16f6a85bb1736d412eb",
+            "avsRegistrations": {
+                "0x870679e138bcdf293b7ff14dd44b70fc97e12fc0": true,
+                "0x71a77037870169d47aad6c2c9360861a4c0df2bf": true,
+                "0x9fc952bdcbb7daca7d420fa55b942405b073a89d": true,
+                "0x6026b61bdd2252160691cb3f6005b6b72e0ec044": true,
+                "0x23221c5bb90c7c57ecc1e75513e2e4257673f0ef": true,
+                "0x35f4f28a8d3ff20eed10e087e8f96ea2641e6aa2": true,
+                "0xed2f4d90b073128ae6769a9a8d51547b1df766c8": true,
+                "0xe5445838c475a2980e6a88054ff1514230b83aeb": true,
+                "0xd50e0931703302b080880c45148f5d83ea66ae2a": true,
+                "0xf7fcff55d5fdaf2c3bbeb140be5e62a2c7d26db3": true,
+                "0xd25c2c5802198cb8541987b73a8db4c9bcae5cc7": true,
+                "0x1f2c296448f692af840843d993ffc0546619dcdb": true,
+                "0x22cac0e6a1465f043428e8aef737b3cb09d0eeda": true
+            }
+        },
+        {
+            "operatorAddress": "0x745059d5e93285cb46d58c9e183a6d414bcea6b6",
+            "avsRegistrations": {
+                "0x9fc952bdcbb7daca7d420fa55b942405b073a89d": true,
+                "0xd25c2c5802198cb8541987b73a8db4c9bcae5cc7": true,
+                "0x23221c5bb90c7c57ecc1e75513e2e4257673f0ef": true,
+                "0x35f4f28a8d3ff20eed10e087e8f96ea2641e6aa2": true,
+                "0xed2f4d90b073128ae6769a9a8d51547b1df766c8": true,
+                "0x870679e138bcdf293b7ff14dd44b70fc97e12fc0": true,
+                "0xe5445838c475a2980e6a88054ff1514230b83aeb": true
+            }
+        },
+        {
+            "operatorAddress": "0xe25480334fc57a4f38f081e87cdfeeeaf09779c9",
+            "avsRegistrations": {
+                "0x9fc952bdcbb7daca7d420fa55b942405b073a89d": true,
+                "0x870679e138bcdf293b7ff14dd44b70fc97e12fc0": true,
+                "0xd25c2c5802198cb8541987b73a8db4c9bcae5cc7": true,
+                "0x35f4f28a8d3ff20eed10e087e8f96ea2641e6aa2": true,
+                "0xed2f4d90b073128ae6769a9a8d51547b1df766c8": true,
+                "0xe5445838c475a2980e6a88054ff1514230b83aeb": true,
+                "0x22cac0e6a1465f043428e8aef737b3cb09d0eeda": true
+            }
+        },
+        {
+            "operatorAddress": "0x3303fda11d6bafe0833d6a6c44c2b8edbab92e4d",
+            "avsRegistrations": {
+                "0x71a77037870169d47aad6c2c9360861a4c0df2bf": true,
+                "0x6026b61bdd2252160691cb3f6005b6b72e0ec044": true,
+                "0xd25c2c5802198cb8541987b73a8db4c9bcae5cc7": true,
+                "0x23221c5bb90c7c57ecc1e75513e2e4257673f0ef": true,
+                "0xed2f4d90b073128ae6769a9a8d51547b1df766c8": true,
+                "0x870679e138bcdf293b7ff14dd44b70fc97e12fc0": true,
+                "0x9fc952bdcbb7daca7d420fa55b942405b073a89d": true,
+                "0x35f4f28a8d3ff20eed10e087e8f96ea2641e6aa2": true,
+                "0xd50e0931703302b080880c45148f5d83ea66ae2a": true
+            }
+        },
+        {
+            "operatorAddress": "0x7f9f584bf0be617fdd0aa3f7400427b60e2c5d27",
+            "avsRegistrations": {
+                "0x9fc952bdcbb7daca7d420fa55b942405b073a89d": true,
+                "0x23221c5bb90c7c57ecc1e75513e2e4257673f0ef": true,
+                "0x870679e138bcdf293b7ff14dd44b70fc97e12fc0": true,
+                "0xd25c2c5802198cb8541987b73a8db4c9bcae5cc7": true,
+                "0x35f4f28a8d3ff20eed10e087e8f96ea2641e6aa2": true,
+                "0x22cac0e6a1465f043428e8aef737b3cb09d0eeda": true
+            }
+        },
+        {
+            "operatorAddress": "0x46b3f7b5be0787765565a6d8a645266a9347ab82",
+            "avsRegistrations": {
+                "0x870679e138bcdf293b7ff14dd44b70fc97e12fc0": true,
+                "0x9fc952bdcbb7daca7d420fa55b942405b073a89d": true,
+                "0x71a77037870169d47aad6c2c9360861a4c0df2bf": true,
+                "0x6026b61bdd2252160691cb3f6005b6b72e0ec044": true,
+                "0x23221c5bb90c7c57ecc1e75513e2e4257673f0ef": true,
+                "0x35f4f28a8d3ff20eed10e087e8f96ea2641e6aa2": true,
+                "0xd25c2c5802198cb8541987b73a8db4c9bcae5cc7": true,
+                "0xed2f4d90b073128ae6769a9a8d51547b1df766c8": true,
+                "0xe5445838c475a2980e6a88054ff1514230b83aeb": true,
+                "0xd50e0931703302b080880c45148f5d83ea66ae2a": true,
+                "0xf7fcff55d5fdaf2c3bbeb140be5e62a2c7d26db3": true,
+                "0x22cac0e6a1465f043428e8aef737b3cb09d0eeda": true,
+                "0x1f2c296448f692af840843d993ffc0546619dcdb": true
+            }
+        },
+        {
+            "operatorAddress": "0xe48c8e071857d1229fc94d73a0f25d1dbb99c04c",
+            "avsRegistrations": {
+                "0x71a77037870169d47aad6c2c9360861a4c0df2bf": true,
+                "0x6026b61bdd2252160691cb3f6005b6b72e0ec044": true
+            }
+        },
+        {
+            "operatorAddress": "0xd9dddc21d4a07968d45c7ae0b57d2f71b0136c07",
+            "avsRegistrations": {
+                "0x71a77037870169d47aad6c2c9360861a4c0df2bf": true,
+                "0x6026b61bdd2252160691cb3f6005b6b72e0ec044": true,
+                "0x9fc952bdcbb7daca7d420fa55b942405b073a89d": true,
+                "0x870679e138bcdf293b7ff14dd44b70fc97e12fc0": true,
+                "0x35f4f28a8d3ff20eed10e087e8f96ea2641e6aa2": true,
+                "0xd50e0931703302b080880c45148f5d83ea66ae2a": true,
+                "0xe5445838c475a2980e6a88054ff1514230b83aeb": true,
+                "0x22cac0e6a1465f043428e8aef737b3cb09d0eeda": true,
+                "0x1f2c296448f692af840843d993ffc0546619dcdb": true
+            }
+        },
+        {
+            "operatorAddress": "0x08d112be16ff37ca6dc8ea06efefd676a42502aa",
+            "avsRegistrations": {
+                "0x870679e138bcdf293b7ff14dd44b70fc97e12fc0": true,
+                "0x23221c5bb90c7c57ecc1e75513e2e4257673f0ef": true,
+                "0x9fc952bdcbb7daca7d420fa55b942405b073a89d": true,
+                "0xd25c2c5802198cb8541987b73a8db4c9bcae5cc7": true,
+                "0xed2f4d90b073128ae6769a9a8d51547b1df766c8": true,
+                "0xf7fcff55d5fdaf2c3bbeb140be5e62a2c7d26db3": true,
+                "0xe5445838c475a2980e6a88054ff1514230b83aeb": true
+            }
+        },
+        {
+            "operatorAddress": "0xa8b322f27c8dfc69f220d3f19a57f8fd193392a4",
+            "avsRegistrations": {
+                "0x71a77037870169d47aad6c2c9360861a4c0df2bf": true,
+                "0x6026b61bdd2252160691cb3f6005b6b72e0ec044": true,
+                "0x9fc952bdcbb7daca7d420fa55b942405b073a89d": true,
+                "0xd25c2c5802198cb8541987b73a8db4c9bcae5cc7": true,
+                "0xd50e0931703302b080880c45148f5d83ea66ae2a": true
+            }
+        },
+        {
+            "operatorAddress": "0x9567e2e3c4e134ace5bc3095a572e64ff4b1e7f6",
+            "avsRegistrations": {
+                "0x870679e138bcdf293b7ff14dd44b70fc97e12fc0": true
+            }
+        },
+        {
+            "operatorAddress": "0x4982fc75cc4a9ab3e2e95ffc33d14396f54bbefb",
+            "avsRegistrations": {
+                "0xd25c2c5802198cb8541987b73a8db4c9bcae5cc7": true
+            }
+        },
+        {
+            "operatorAddress": "0xd109de42fb382046d89c5e8faff2870d7376db0a",
+            "avsRegistrations": {
+                "0xd25c2c5802198cb8541987b73a8db4c9bcae5cc7": true
+            }
+        },
+        {
+            "operatorAddress": "0x8d56b0829f6e840176cfa39c21b4fccf4350be8a",
+            "avsRegistrations": {
+                "0x870679e138bcdf293b7ff14dd44b70fc97e12fc0": true,
+                "0x23221c5bb90c7c57ecc1e75513e2e4257673f0ef": true
+            }
+        },
+        {
+            "operatorAddress": "0x30eafe8869a1528660a97b7a7e8e2d0037dcb922",
+            "avsRegistrations": {
+                "0x870679e138bcdf293b7ff14dd44b70fc97e12fc0": true,
+                "0x23221c5bb90c7c57ecc1e75513e2e4257673f0ef": true,
+                "0xd25c2c5802198cb8541987b73a8db4c9bcae5cc7": true,
+                "0x9fc952bdcbb7daca7d420fa55b942405b073a89d": true,
+                "0xf7fcff55d5fdaf2c3bbeb140be5e62a2c7d26db3": true,
+                "0xe5445838c475a2980e6a88054ff1514230b83aeb": true,
+                "0x35f4f28a8d3ff20eed10e087e8f96ea2641e6aa2": true,
+                "0x22cac0e6a1465f043428e8aef737b3cb09d0eeda": true
+            }
+        },
+        {
+            "operatorAddress": "0xd5874fcde7c7481ba60dfafad346c5027aaf39a5",
+            "avsRegistrations": {
+                "0x6026b61bdd2252160691cb3f6005b6b72e0ec044": true,
+                "0x71a77037870169d47aad6c2c9360861a4c0df2bf": true,
+                "0x23221c5bb90c7c57ecc1e75513e2e4257673f0ef": true,
+                "0x870679e138bcdf293b7ff14dd44b70fc97e12fc0": true,
+                "0xd25c2c5802198cb8541987b73a8db4c9bcae5cc7": true,
+                "0xe5445838c475a2980e6a88054ff1514230b83aeb": true,
+                "0xd50e0931703302b080880c45148f5d83ea66ae2a": true,
+                "0xf7fcff55d5fdaf2c3bbeb140be5e62a2c7d26db3": true,
+                "0x1f2c296448f692af840843d993ffc0546619dcdb": true
+            }
+        },
+        {
+            "operatorAddress": "0x082c10c9715742ab97db17075e50e1ac98b07c12",
+            "avsRegistrations": {
+                "0x870679e138bcdf293b7ff14dd44b70fc97e12fc0": true
+            }
+        },
+        {
+            "operatorAddress": "0x858dacb5accdb783c47b4debf30f96f2f0079f4b",
+            "avsRegistrations": {
+                "0x870679e138bcdf293b7ff14dd44b70fc97e12fc0": true,
+                "0x23221c5bb90c7c57ecc1e75513e2e4257673f0ef": true,
+                "0xd25c2c5802198cb8541987b73a8db4c9bcae5cc7": true
+            }
+        },
+        {
+            "operatorAddress": "0x140dc7ef41b8ed01f340333045dc818947ca428d",
+            "avsRegistrations": {
+                "0x9fc952bdcbb7daca7d420fa55b942405b073a89d": true,
+                "0x870679e138bcdf293b7ff14dd44b70fc97e12fc0": true,
+                "0xd25c2c5802198cb8541987b73a8db4c9bcae5cc7": true
+            }
+        },
+        {
+            "operatorAddress": "0xa269a19b31b193acae86cc3c9f4c28ead66e11eb",
+            "avsRegistrations": {
+                "0xd25c2c5802198cb8541987b73a8db4c9bcae5cc7": true,
+                "0x23221c5bb90c7c57ecc1e75513e2e4257673f0ef": true,
+                "0x870679e138bcdf293b7ff14dd44b70fc97e12fc0": true,
+                "0xd50e0931703302b080880c45148f5d83ea66ae2a": true,
+                "0xe5445838c475a2980e6a88054ff1514230b83aeb": true,
+                "0x1f2c296448f692af840843d993ffc0546619dcdb": true
+            }
+        },
+        {
+            "operatorAddress": "0x85648461ac849f0d9c0303a966753096bbec56a2",
+            "avsRegistrations": {
+                "0x9fc952bdcbb7daca7d420fa55b942405b073a89d": true
+            }
+        },
+        {
+            "operatorAddress": "0x562cb2fd177e05b4d8a8002648b7d51e0b259616",
+            "avsRegistrations": {
+                "0x71a77037870169d47aad6c2c9360861a4c0df2bf": true,
+                "0x6026b61bdd2252160691cb3f6005b6b72e0ec044": true,
+                "0x35f4f28a8d3ff20eed10e087e8f96ea2641e6aa2": true,
+                "0xd50e0931703302b080880c45148f5d83ea66ae2a": true,
+                "0xe5445838c475a2980e6a88054ff1514230b83aeb": true,
+                "0xf7fcff55d5fdaf2c3bbeb140be5e62a2c7d26db3": true,
+                "0xd25c2c5802198cb8541987b73a8db4c9bcae5cc7": true,
+                "0x1f2c296448f692af840843d993ffc0546619dcdb": true
+            }
+        },
+        {
+            "operatorAddress": "0x3ca280a1bd74c54bfaae001ecd9398717cf0e713",
+            "avsRegistrations": {
+                "0x71a77037870169d47aad6c2c9360861a4c0df2bf": true,
+                "0x6026b61bdd2252160691cb3f6005b6b72e0ec044": true,
+                "0xd50e0931703302b080880c45148f5d83ea66ae2a": true,
+                "0xe5445838c475a2980e6a88054ff1514230b83aeb": true,
+                "0xf7fcff55d5fdaf2c3bbeb140be5e62a2c7d26db3": true,
+                "0xd25c2c5802198cb8541987b73a8db4c9bcae5cc7": true,
+                "0x870679e138bcdf293b7ff14dd44b70fc97e12fc0": true,
+                "0x35f4f28a8d3ff20eed10e087e8f96ea2641e6aa2": true,
+                "0x23221c5bb90c7c57ecc1e75513e2e4257673f0ef": true,
+                "0x1f2c296448f692af840843d993ffc0546619dcdb": true,
+                "0x22cac0e6a1465f043428e8aef737b3cb09d0eeda": true
+            }
+        },
+        {
+            "operatorAddress": "0xf1cbc3f2dbfec8d209b63f635319315e216024fb",
+            "avsRegistrations": {
+                "0x71a77037870169d47aad6c2c9360861a4c0df2bf": true,
+                "0x6026b61bdd2252160691cb3f6005b6b72e0ec044": true,
+                "0xd50e0931703302b080880c45148f5d83ea66ae2a": true,
+                "0x1f2c296448f692af840843d993ffc0546619dcdb": true
+            }
+        },
+        {
+            "operatorAddress": "0x515b0ce079114fe6df9a3a3d7b5c1ae5a2656cd8",
+            "avsRegistrations": {
+                "0x71a77037870169d47aad6c2c9360861a4c0df2bf": true,
+                "0x6026b61bdd2252160691cb3f6005b6b72e0ec044": true,
+                "0xd50e0931703302b080880c45148f5d83ea66ae2a": true,
+                "0x1f2c296448f692af840843d993ffc0546619dcdb": true
+            }
+        },
+        {
+            "operatorAddress": "0x6011a26ede811b22d9979a1dc4d341bc1d683c37",
+            "avsRegistrations": {
+                "0x71a77037870169d47aad6c2c9360861a4c0df2bf": true,
+                "0x6026b61bdd2252160691cb3f6005b6b72e0ec044": true,
+                "0x9fc952bdcbb7daca7d420fa55b942405b073a89d": true,
+                "0xe5445838c475a2980e6a88054ff1514230b83aeb": true,
+                "0xd50e0931703302b080880c45148f5d83ea66ae2a": true,
+                "0x1f2c296448f692af840843d993ffc0546619dcdb": true
+            }
+        },
+        {
+            "operatorAddress": "0x2b339476f2125aafbc6aeb9f0c3f766ca9d3d46b",
+            "avsRegistrations": {
+                "0x870679e138bcdf293b7ff14dd44b70fc97e12fc0": true
+            }
+        },
+        {
+            "operatorAddress": "0x542a97bad0352990a1f23d627400a599b1cad6c4",
+            "avsRegistrations": {
+                "0x870679e138bcdf293b7ff14dd44b70fc97e12fc0": true
+            }
+        },
+        {
+            "operatorAddress": "0x4ab936ed359a71b91b1ea1062d7bc9ba4e318405",
+            "avsRegistrations": {
+                "0x870679e138bcdf293b7ff14dd44b70fc97e12fc0": true,
+                "0xed2f4d90b073128ae6769a9a8d51547b1df766c8": true,
+                "0x23221c5bb90c7c57ecc1e75513e2e4257673f0ef": true,
+                "0xd25c2c5802198cb8541987b73a8db4c9bcae5cc7": true,
+                "0xd50e0931703302b080880c45148f5d83ea66ae2a": true,
+                "0xf7fcff55d5fdaf2c3bbeb140be5e62a2c7d26db3": true,
+                "0x1f2c296448f692af840843d993ffc0546619dcdb": true
+            }
+        },
+        {
+            "operatorAddress": "0x81a28c9f24fa19f3292178464427bd71c0dad411",
+            "avsRegistrations": {
+                "0x71a77037870169d47aad6c2c9360861a4c0df2bf": true,
+                "0x6026b61bdd2252160691cb3f6005b6b72e0ec044": true,
+                "0xed2f4d90b073128ae6769a9a8d51547b1df766c8": true,
+                "0xf7fcff55d5fdaf2c3bbeb140be5e62a2c7d26db3": true
+            }
+        },
+        {
+            "operatorAddress": "0xed998ec9cfd08fa4544baee06a080e3cd1e33a95",
+            "avsRegistrations": {
+                "0x23221c5bb90c7c57ecc1e75513e2e4257673f0ef": true,
+                "0x870679e138bcdf293b7ff14dd44b70fc97e12fc0": true,
+                "0xed2f4d90b073128ae6769a9a8d51547b1df766c8": true
+            }
+        },
+        {
+            "operatorAddress": "0x12d55aa36a50fa8fc5ede24076e8bc8a0d5bd452",
+            "avsRegistrations": {
+                "0x870679e138bcdf293b7ff14dd44b70fc97e12fc0": true,
+                "0x23221c5bb90c7c57ecc1e75513e2e4257673f0ef": true,
+                "0x9fc952bdcbb7daca7d420fa55b942405b073a89d": true,
+                "0xed2f4d90b073128ae6769a9a8d51547b1df766c8": true
+            }
+        },
+        {
+            "operatorAddress": "0x7e595e67c94ec022838cb6cf0bbc599256129110",
+            "avsRegistrations": {
+                "0x870679e138bcdf293b7ff14dd44b70fc97e12fc0": true
+            }
+        },
+        {
+            "operatorAddress": "0x896b35e1f9c93afa35a2882c53605108f934bfe5",
+            "avsRegistrations": {
+                "0x9fc952bdcbb7daca7d420fa55b942405b073a89d": true,
+                "0x23221c5bb90c7c57ecc1e75513e2e4257673f0ef": true,
+                "0x870679e138bcdf293b7ff14dd44b70fc97e12fc0": true,
+                "0xed2f4d90b073128ae6769a9a8d51547b1df766c8": true,
+                "0xd25c2c5802198cb8541987b73a8db4c9bcae5cc7": true,
+                "0xe5445838c475a2980e6a88054ff1514230b83aeb": true
+            }
+        },
+        {
+            "operatorAddress": "0x39beca54f450fcc4b31729a85b3e9655ec0081d6",
+            "avsRegistrations": {
+                "0x870679e138bcdf293b7ff14dd44b70fc97e12fc0": true
+            }
+        },
+        {
+            "operatorAddress": "0xd7ed603e90d11892e56f00b1462e6d1a9ae488f2",
+            "avsRegistrations": {
+                "0x870679e138bcdf293b7ff14dd44b70fc97e12fc0": false,
+                "0x23221c5bb90c7c57ecc1e75513e2e4257673f0ef": true,
+                "0x9fc952bdcbb7daca7d420fa55b942405b073a89d": true
+            }
+        },
+        {
+            "operatorAddress": "0xc17988786fde76c161183730134b7437639c15b0",
+            "avsRegistrations": {
+                "0x23221c5bb90c7c57ecc1e75513e2e4257673f0ef": true,
+                "0xd25c2c5802198cb8541987b73a8db4c9bcae5cc7": true,
+                "0x870679e138bcdf293b7ff14dd44b70fc97e12fc0": true,
+                "0x35f4f28a8d3ff20eed10e087e8f96ea2641e6aa2": true,
+                "0xed2f4d90b073128ae6769a9a8d51547b1df766c8": true,
+                "0x9fc952bdcbb7daca7d420fa55b942405b073a89d": true,
+                "0x22cac0e6a1465f043428e8aef737b3cb09d0eeda": true
+            }
+        },
+        {
+            "operatorAddress": "0x778328d6adca7a091f0b73d41ad8ea0e793712c3",
+            "avsRegistrations": {
+                "0x870679e138bcdf293b7ff14dd44b70fc97e12fc0": true,
+                "0x23221c5bb90c7c57ecc1e75513e2e4257673f0ef": true,
+                "0x9fc952bdcbb7daca7d420fa55b942405b073a89d": true,
+                "0xd25c2c5802198cb8541987b73a8db4c9bcae5cc7": true,
+                "0xd50e0931703302b080880c45148f5d83ea66ae2a": true,
+                "0xf7fcff55d5fdaf2c3bbeb140be5e62a2c7d26db3": true,
+                "0xe5445838c475a2980e6a88054ff1514230b83aeb": true,
+                "0x1f2c296448f692af840843d993ffc0546619dcdb": true
+            }
+        },
+        {
+            "operatorAddress": "0xb5ead7a953052da8212da7e9462d65f91205d06d",
+            "avsRegistrations": {
+                "0x6026b61bdd2252160691cb3f6005b6b72e0ec044": true,
+                "0x71a77037870169d47aad6c2c9360861a4c0df2bf": true,
+                "0x870679e138bcdf293b7ff14dd44b70fc97e12fc0": true,
+                "0x23221c5bb90c7c57ecc1e75513e2e4257673f0ef": true,
+                "0xd50e0931703302b080880c45148f5d83ea66ae2a": true,
+                "0xf7fcff55d5fdaf2c3bbeb140be5e62a2c7d26db3": true,
+                "0x1f2c296448f692af840843d993ffc0546619dcdb": true
+            }
+        },
+        {
+            "operatorAddress": "0xd7364b02a215f6bf76202ee87320b5b7503cf87f",
+            "avsRegistrations": {
+                "0xed2f4d90b073128ae6769a9a8d51547b1df766c8": true,
+                "0x23221c5bb90c7c57ecc1e75513e2e4257673f0ef": true,
+                "0x870679e138bcdf293b7ff14dd44b70fc97e12fc0": true,
+                "0xd25c2c5802198cb8541987b73a8db4c9bcae5cc7": true,
+                "0x35f4f28a8d3ff20eed10e087e8f96ea2641e6aa2": true
+            }
+        },
+        {
+            "operatorAddress": "0xcb0f3e36900bd29fe45f3c9f3968fc9371a93efc",
+            "avsRegistrations": {
+                "0xd25c2c5802198cb8541987b73a8db4c9bcae5cc7": true,
+                "0x23221c5bb90c7c57ecc1e75513e2e4257673f0ef": true,
+                "0x870679e138bcdf293b7ff14dd44b70fc97e12fc0": true,
+                "0x9fc952bdcbb7daca7d420fa55b942405b073a89d": true,
+                "0x35f4f28a8d3ff20eed10e087e8f96ea2641e6aa2": true,
+                "0xe5445838c475a2980e6a88054ff1514230b83aeb": true
+            }
+        },
+        {
+            "operatorAddress": "0xdcae4faf7c7d0f4a78abe147244c6e9d60cfd202",
+            "avsRegistrations": {
+                "0x870679e138bcdf293b7ff14dd44b70fc97e12fc0": true,
+                "0x9fc952bdcbb7daca7d420fa55b942405b073a89d": true,
+                "0x71a77037870169d47aad6c2c9360861a4c0df2bf": true,
+                "0x6026b61bdd2252160691cb3f6005b6b72e0ec044": true
+            }
+        },
+        {
+            "operatorAddress": "0x0beab1616e132768963c9004754e023f62299e10",
+            "avsRegistrations": {
+                "0xe5445838c475a2980e6a88054ff1514230b83aeb": true,
+                "0x71a77037870169d47aad6c2c9360861a4c0df2bf": true,
+                "0x6026b61bdd2252160691cb3f6005b6b72e0ec044": true,
+                "0xd50e0931703302b080880c45148f5d83ea66ae2a": true
+            }
+        },
+        {
+            "operatorAddress": "0x25de91dff818af9c9d7820304407f2f387009501",
+            "avsRegistrations": {
+                "0x870679e138bcdf293b7ff14dd44b70fc97e12fc0": true,
+                "0x23221c5bb90c7c57ecc1e75513e2e4257673f0ef": true,
+                "0x9fc952bdcbb7daca7d420fa55b942405b073a89d": true,
+                "0xed2f4d90b073128ae6769a9a8d51547b1df766c8": true,
+                "0xd25c2c5802198cb8541987b73a8db4c9bcae5cc7": true
+            }
+        },
+        {
+            "operatorAddress": "0xccc54c077c25227dec04d4e0db3cd635f4b0b85f",
+            "avsRegistrations": {
+                "0x870679e138bcdf293b7ff14dd44b70fc97e12fc0": true,
+                "0x23221c5bb90c7c57ecc1e75513e2e4257673f0ef": true,
+                "0x9fc952bdcbb7daca7d420fa55b942405b073a89d": true,
+                "0xed2f4d90b073128ae6769a9a8d51547b1df766c8": true,
+                "0xd25c2c5802198cb8541987b73a8db4c9bcae5cc7": true,
+                "0xe5445838c475a2980e6a88054ff1514230b83aeb": true
+            }
+        },
+        {
+            "operatorAddress": "0x9631af6a712d296fedb800132edcf08e493b12cd",
+            "avsRegistrations": {
+                "0x870679e138bcdf293b7ff14dd44b70fc97e12fc0": true
+            }
+        },
+        {
+            "operatorAddress": "0x9b6067f41c6144b7f7a8d58077aca7fa25b81128",
+            "avsRegistrations": {
+                "0x870679e138bcdf293b7ff14dd44b70fc97e12fc0": true
+            }
+        },
+        {
+            "operatorAddress": "0x7a2934cce8686c1fc1a8a210d252c6eb50929802",
+            "avsRegistrations": {
+                "0x23221c5bb90c7c57ecc1e75513e2e4257673f0ef": true,
+                "0x9fc952bdcbb7daca7d420fa55b942405b073a89d": true,
+                "0xed2f4d90b073128ae6769a9a8d51547b1df766c8": true
+            }
+        },
+        {
+            "operatorAddress": "0xea50bb6735703422d2e053452f1f28bff17da51f",
+            "avsRegistrations": {
+                "0x870679e138bcdf293b7ff14dd44b70fc97e12fc0": true,
+                "0x9fc952bdcbb7daca7d420fa55b942405b073a89d": true
+            }
+        },
+        {
+            "operatorAddress": "0x7f7a1c1e824a989e58d0db67ea4aac17d5cb5adc",
+            "avsRegistrations": {
+                "0x23221c5bb90c7c57ecc1e75513e2e4257673f0ef": true,
+                "0x9fc952bdcbb7daca7d420fa55b942405b073a89d": true,
+                "0xed2f4d90b073128ae6769a9a8d51547b1df766c8": true
+            }
+        },
+        {
+            "operatorAddress": "0x342e35a47dd213d4612f2e622cab5214798a4604",
+            "avsRegistrations": {
+                "0x870679e138bcdf293b7ff14dd44b70fc97e12fc0": true
+            }
+        },
+        {
+            "operatorAddress": "0xfb487f216ca24162119c0c6ae015d680d7569c2f",
+            "avsRegistrations": {
+                "0x870679e138bcdf293b7ff14dd44b70fc97e12fc0": true
+            }
+        },
+        {
+            "operatorAddress": "0xa5954756792f64ba7bcc4b5fd664b0843a7afe5b",
+            "avsRegistrations": {
+                "0x870679e138bcdf293b7ff14dd44b70fc97e12fc0": true,
+                "0x23221c5bb90c7c57ecc1e75513e2e4257673f0ef": true,
+                "0x9fc952bdcbb7daca7d420fa55b942405b073a89d": true,
+                "0x35f4f28a8d3ff20eed10e087e8f96ea2641e6aa2": true,
+                "0xd25c2c5802198cb8541987b73a8db4c9bcae5cc7": true,
+                "0xe5445838c475a2980e6a88054ff1514230b83aeb": true,
+                "0xf7fcff55d5fdaf2c3bbeb140be5e62a2c7d26db3": true,
+                "0x22cac0e6a1465f043428e8aef737b3cb09d0eeda": true
+            }
+        },
+        {
+            "operatorAddress": "0x5f8cad01a7668d2331bedd217d62ae6d1254b064",
+            "avsRegistrations": {
+                "0x870679e138bcdf293b7ff14dd44b70fc97e12fc0": true
+            }
+        },
+        {
+            "operatorAddress": "0xdda538c29b6d569252e127c266a8a4cd77ea0bd8",
+            "avsRegistrations": {
+                "0x870679e138bcdf293b7ff14dd44b70fc97e12fc0": true,
+                "0xed2f4d90b073128ae6769a9a8d51547b1df766c8": true
+            }
+        },
+        {
+            "operatorAddress": "0xfe58d62a6e545f08a159fcbf17fe9abef6ef0ebc",
+            "avsRegistrations": {
+                "0x870679e138bcdf293b7ff14dd44b70fc97e12fc0": true
+            }
+        },
+        {
+            "operatorAddress": "0x6586a98aa8a5e8ae4754703c9255477e9be4bad1",
+            "avsRegistrations": {
+                "0x870679e138bcdf293b7ff14dd44b70fc97e12fc0": true,
+                "0x9fc952bdcbb7daca7d420fa55b942405b073a89d": true,
+                "0xed2f4d90b073128ae6769a9a8d51547b1df766c8": true,
+                "0x23221c5bb90c7c57ecc1e75513e2e4257673f0ef": true,
+                "0xe5445838c475a2980e6a88054ff1514230b83aeb": true
+            }
+        },
+        {
+            "operatorAddress": "0xf234efdfc55cbb3a2fc07b0a14e716b25c3027bb",
+            "avsRegistrations": {
+                "0x870679e138bcdf293b7ff14dd44b70fc97e12fc0": true
+            }
+        },
+        {
+            "operatorAddress": "0x4bd479a34450d0cb1f5ef16a877bee47e1e4cdb9",
+            "avsRegistrations": {
+                "0x870679e138bcdf293b7ff14dd44b70fc97e12fc0": true
+            }
+        },
+        {
+            "operatorAddress": "0x230d0e391088e017f7056c3bb7e1f9adfc8182ef",
+            "avsRegistrations": {
+                "0x870679e138bcdf293b7ff14dd44b70fc97e12fc0": true
+            }
+        },
+        {
+            "operatorAddress": "0xbc8cd98247600116ba948911deb41a122ab77182",
+            "avsRegistrations": {
+                "0x870679e138bcdf293b7ff14dd44b70fc97e12fc0": true,
+                "0x9fc952bdcbb7daca7d420fa55b942405b073a89d": true,
+                "0xed2f4d90b073128ae6769a9a8d51547b1df766c8": true,
+                "0xd25c2c5802198cb8541987b73a8db4c9bcae5cc7": true,
+                "0x23221c5bb90c7c57ecc1e75513e2e4257673f0ef": true,
+                "0xe5445838c475a2980e6a88054ff1514230b83aeb": true
+            }
+        },
+        {
+            "operatorAddress": "0xa6c3f159242855ba09d9f445679ed0b244c22062",
+            "avsRegistrations": {
+                "0x870679e138bcdf293b7ff14dd44b70fc97e12fc0": true,
+                "0x23221c5bb90c7c57ecc1e75513e2e4257673f0ef": true,
+                "0xed2f4d90b073128ae6769a9a8d51547b1df766c8": true,
+                "0xd25c2c5802198cb8541987b73a8db4c9bcae5cc7": true
+            }
+        },
+        {
+            "operatorAddress": "0x9eb2e30848decc39a5620a3967d33c673f0e81ef",
+            "avsRegistrations": {
+                "0xe5445838c475a2980e6a88054ff1514230b83aeb": true
+            }
+        },
+        {
+            "operatorAddress": "0x00107cfdeaddc0a3160ed2f6fedd627f313e7b1a",
+            "avsRegistrations": {
+                "0x870679e138bcdf293b7ff14dd44b70fc97e12fc0": true
+            }
+        },
+        {
+            "operatorAddress": "0x17c5f0cc30bd57b308b7f62600b415fd1335e1fe",
+            "avsRegistrations": {
+                "0x870679e138bcdf293b7ff14dd44b70fc97e12fc0": true
+            }
+        },
+        {
+            "operatorAddress": "0x5cd6fdfad710609c828feba2508bcaf89e80501a",
+            "avsRegistrations": {
+                "0x870679e138bcdf293b7ff14dd44b70fc97e12fc0": true,
+                "0x23221c5bb90c7c57ecc1e75513e2e4257673f0ef": true,
+                "0x35f4f28a8d3ff20eed10e087e8f96ea2641e6aa2": true,
+                "0x9fc952bdcbb7daca7d420fa55b942405b073a89d": true,
+                "0x71a77037870169d47aad6c2c9360861a4c0df2bf": true,
+                "0x6026b61bdd2252160691cb3f6005b6b72e0ec044": true,
+                "0xd25c2c5802198cb8541987b73a8db4c9bcae5cc7": true,
+                "0xed2f4d90b073128ae6769a9a8d51547b1df766c8": true,
+                "0xe5445838c475a2980e6a88054ff1514230b83aeb": true,
+                "0xf7fcff55d5fdaf2c3bbeb140be5e62a2c7d26db3": true,
+                "0x22cac0e6a1465f043428e8aef737b3cb09d0eeda": true
+            }
+        },
+        {
+            "operatorAddress": "0xa704ddb85fe3754478ffc7b47e8e08c5ee30ce8f",
+            "avsRegistrations": {
+                "0x23221c5bb90c7c57ecc1e75513e2e4257673f0ef": true,
+                "0x870679e138bcdf293b7ff14dd44b70fc97e12fc0": true
+            }
+        },
+        {
+            "operatorAddress": "0x7915c8576650d52e768bc6d0ede4b75431a6ffe6",
+            "avsRegistrations": {
+                "0x23221c5bb90c7c57ecc1e75513e2e4257673f0ef": true,
+                "0x870679e138bcdf293b7ff14dd44b70fc97e12fc0": true
+            }
+        },
+        {
+            "operatorAddress": "0x522149fa67c68443520289f622099cae70878afa",
+            "avsRegistrations": {
+                "0xd25c2c5802198cb8541987b73a8db4c9bcae5cc7": true,
+                "0x870679e138bcdf293b7ff14dd44b70fc97e12fc0": true,
+                "0xe5445838c475a2980e6a88054ff1514230b83aeb": true,
+                "0x35f4f28a8d3ff20eed10e087e8f96ea2641e6aa2": true,
+                "0x22cac0e6a1465f043428e8aef737b3cb09d0eeda": true
+            }
+        },
+        {
+            "operatorAddress": "0xbd195f077270feea0f3b35f2c70cba19bf815e0c",
+            "avsRegistrations": {
+                "0x23221c5bb90c7c57ecc1e75513e2e4257673f0ef": true,
+                "0x870679e138bcdf293b7ff14dd44b70fc97e12fc0": true
+            }
+        },
+        {
+            "operatorAddress": "0x6524df2aac9763bcc40e890203fe988699d7cd75",
+            "avsRegistrations": {
+                "0x870679e138bcdf293b7ff14dd44b70fc97e12fc0": true
+            }
+        },
+        {
+            "operatorAddress": "0xc947a7296df373226020d7f87a0bc5699d96ee61",
+            "avsRegistrations": {
+                "0x870679e138bcdf293b7ff14dd44b70fc97e12fc0": true,
+                "0x23221c5bb90c7c57ecc1e75513e2e4257673f0ef": true,
+                "0xed2f4d90b073128ae6769a9a8d51547b1df766c8": true
+            }
+        },
+        {
+            "operatorAddress": "0x33be23aa50fbf7141a1a00defec028f4d44e2099",
+            "avsRegistrations": {
+                "0x870679e138bcdf293b7ff14dd44b70fc97e12fc0": true
+            }
+        },
+        {
+            "operatorAddress": "0xfc7946fb4af45429c85aa16da2b09318604d035e",
+            "avsRegistrations": {
+                "0x23221c5bb90c7c57ecc1e75513e2e4257673f0ef": true,
+                "0x870679e138bcdf293b7ff14dd44b70fc97e12fc0": true
+            }
+        },
+        {
+            "operatorAddress": "0x912f967b606a99da0653763fff9bd063fcaedb14",
+            "avsRegistrations": {
+                "0x23221c5bb90c7c57ecc1e75513e2e4257673f0ef": true,
+                "0xed2f4d90b073128ae6769a9a8d51547b1df766c8": true,
+                "0x870679e138bcdf293b7ff14dd44b70fc97e12fc0": true
+            }
+        },
+        {
+            "operatorAddress": "0x037713da418bbecf2dbb9bf5593b2d56414ea156",
+            "avsRegistrations": {
+                "0x23221c5bb90c7c57ecc1e75513e2e4257673f0ef": true
+            }
+        },
+        {
+            "operatorAddress": "0x4c77049f3142a55bf995b1b805ddae0052fd56e2",
+            "avsRegistrations": {
+                "0x870679e138bcdf293b7ff14dd44b70fc97e12fc0": true
+            }
+        },
+        {
+            "operatorAddress": "0xeeb1976de73d72e1e3861c4572f03bbdad91f571",
+            "avsRegistrations": {
+                "0xed2f4d90b073128ae6769a9a8d51547b1df766c8": true,
+                "0xf7fcff55d5fdaf2c3bbeb140be5e62a2c7d26db3": true
+            }
+        },
+        {
+            "operatorAddress": "0x567fcbf413eaea5e585329481f8615f91762ac64",
+            "avsRegistrations": {
+                "0x870679e138bcdf293b7ff14dd44b70fc97e12fc0": true,
+                "0x23221c5bb90c7c57ecc1e75513e2e4257673f0ef": true
+            }
+        },
+        {
+            "operatorAddress": "0xe0156ef2905c2ea8b1f7571caee85fdf1657ab38",
+            "avsRegistrations": {
+                "0x870679e138bcdf293b7ff14dd44b70fc97e12fc0": true
+            }
+        },
+        {
+            "operatorAddress": "0xdceb929f30e392b460a4f59349124dd285f5a6dc",
+            "avsRegistrations": {
+                "0x870679e138bcdf293b7ff14dd44b70fc97e12fc0": true
+            }
+        },
+        {
+            "operatorAddress": "0x3a5dcec17661d540ef215a56bd5ac35ac3450b9d",
+            "avsRegistrations": {
+                "0x9fc952bdcbb7daca7d420fa55b942405b073a89d": true,
+                "0x23221c5bb90c7c57ecc1e75513e2e4257673f0ef": true,
+                "0x870679e138bcdf293b7ff14dd44b70fc97e12fc0": true
+            }
+        },
+        {
+            "operatorAddress": "0x865cae37b4f44e73ea1e79577c5bfc6207c98f16",
+            "avsRegistrations": {
+                "0x870679e138bcdf293b7ff14dd44b70fc97e12fc0": true,
+                "0x23221c5bb90c7c57ecc1e75513e2e4257673f0ef": true,
+                "0xed2f4d90b073128ae6769a9a8d51547b1df766c8": true,
+                "0xd25c2c5802198cb8541987b73a8db4c9bcae5cc7": true,
+                "0x35f4f28a8d3ff20eed10e087e8f96ea2641e6aa2": true,
+                "0xe5445838c475a2980e6a88054ff1514230b83aeb": true,
+                "0xf7fcff55d5fdaf2c3bbeb140be5e62a2c7d26db3": true,
+                "0x22cac0e6a1465f043428e8aef737b3cb09d0eeda": true
+            }
+        },
+        {
+            "operatorAddress": "0xd01f3caebb55598fa894cadac0629fd059ae1aba",
+            "avsRegistrations": {
+                "0xe5445838c475a2980e6a88054ff1514230b83aeb": true
+            }
+        },
+        {
+            "operatorAddress": "0x7eaac258b4e0de14c1ccca7046142c7a6fefd15d",
+            "avsRegistrations": {
+                "0x9fc952bdcbb7daca7d420fa55b942405b073a89d": true,
+                "0x870679e138bcdf293b7ff14dd44b70fc97e12fc0": true
+            }
+        },
+        {
+            "operatorAddress": "0x86c4c0351cdcb8c5ba47310d8aa1f4b7627e17b0",
+            "avsRegistrations": {
+                "0x9fc952bdcbb7daca7d420fa55b942405b073a89d": true,
+                "0x870679e138bcdf293b7ff14dd44b70fc97e12fc0": true
+            }
+        },
+        {
+            "operatorAddress": "0x3761986525cbb191d35b3eae8322384b15c52f21",
+            "avsRegistrations": {
+                "0x9fc952bdcbb7daca7d420fa55b942405b073a89d": true,
+                "0x870679e138bcdf293b7ff14dd44b70fc97e12fc0": true
+            }
+        },
+        {
+            "operatorAddress": "0x5cb0a9a76cf6ab6e914e92fe5aec6c38a598fd05",
+            "avsRegistrations": {
+                "0x9fc952bdcbb7daca7d420fa55b942405b073a89d": true,
+                "0x870679e138bcdf293b7ff14dd44b70fc97e12fc0": true
+            }
+        },
+        {
+            "operatorAddress": "0x9e91b47454bee4a8c54c1704f63f85bcbd112941",
+            "avsRegistrations": {
+                "0x9fc952bdcbb7daca7d420fa55b942405b073a89d": true
+            }
+        },
+        {
+            "operatorAddress": "0x57f20db4811c90f2ad0d02b027ed7261712c0b19",
+            "avsRegistrations": {
+                "0x870679e138bcdf293b7ff14dd44b70fc97e12fc0": true
+            }
+        },
+        {
+            "operatorAddress": "0x500f8fb5422cf9cd8c56198464ac21d065da2228",
+            "avsRegistrations": {
+                "0x870679e138bcdf293b7ff14dd44b70fc97e12fc0": true,
+                "0xd25c2c5802198cb8541987b73a8db4c9bcae5cc7": true
+            }
+        },
+        {
+            "operatorAddress": "0x5dcdf02a7188257b7c37dd3158756da9ccd4a9cb",
+            "avsRegistrations": {
+                "0x870679e138bcdf293b7ff14dd44b70fc97e12fc0": true,
+                "0x23221c5bb90c7c57ecc1e75513e2e4257673f0ef": true,
+                "0x9fc952bdcbb7daca7d420fa55b942405b073a89d": true,
+                "0xd25c2c5802198cb8541987b73a8db4c9bcae5cc7": true,
+                "0x35f4f28a8d3ff20eed10e087e8f96ea2641e6aa2": true,
+                "0xf7fcff55d5fdaf2c3bbeb140be5e62a2c7d26db3": true,
+                "0x22cac0e6a1465f043428e8aef737b3cb09d0eeda": true,
+                "0x1f2c296448f692af840843d993ffc0546619dcdb": true
+            }
+        },
+        {
+            "operatorAddress": "0x90659e1b1392d55f640cfd104b305ec419d34756",
+            "avsRegistrations": {
+                "0x870679e138bcdf293b7ff14dd44b70fc97e12fc0": true,
+                "0x23221c5bb90c7c57ecc1e75513e2e4257673f0ef": true
+            }
+        },
+        {
+            "operatorAddress": "0x90b17392b0717155725e81cd274a12e62f4ada6b",
+            "avsRegistrations": {
+                "0x9fc952bdcbb7daca7d420fa55b942405b073a89d": true,
+                "0x870679e138bcdf293b7ff14dd44b70fc97e12fc0": true
+            }
+        },
+        {
+            "operatorAddress": "0x3f98f47d302a3cfd3746fe35f7cf10c3217e5272",
+            "avsRegistrations": {
+                "0x870679e138bcdf293b7ff14dd44b70fc97e12fc0": true,
+                "0x35f4f28a8d3ff20eed10e087e8f96ea2641e6aa2": true,
+                "0x23221c5bb90c7c57ecc1e75513e2e4257673f0ef": true,
+                "0xd25c2c5802198cb8541987b73a8db4c9bcae5cc7": true,
+                "0xf7fcff55d5fdaf2c3bbeb140be5e62a2c7d26db3": true,
+                "0x22cac0e6a1465f043428e8aef737b3cb09d0eeda": true,
+                "0x1f2c296448f692af840843d993ffc0546619dcdb": true
+            }
+        },
+        {
+            "operatorAddress": "0xca2b9550d671359d2c866865f3a48abfa205d22f",
+            "avsRegistrations": {
+                "0x9fc952bdcbb7daca7d420fa55b942405b073a89d": true,
+                "0x870679e138bcdf293b7ff14dd44b70fc97e12fc0": true
+            }
+        },
+        {
+            "operatorAddress": "0x6e5f8947eeaa599aaa649b2dbe62ac6c2e1bb6d0",
+            "avsRegistrations": {
+                "0x9fc952bdcbb7daca7d420fa55b942405b073a89d": true,
+                "0x870679e138bcdf293b7ff14dd44b70fc97e12fc0": true
+            }
+        },
+        {
+            "operatorAddress": "0x18031c843f522628b3a9668204e7f13da34b68ca",
+            "avsRegistrations": {
+                "0x9fc952bdcbb7daca7d420fa55b942405b073a89d": true,
+                "0x870679e138bcdf293b7ff14dd44b70fc97e12fc0": true
+            }
+        },
+        {
+            "operatorAddress": "0xf4ef4ccbc80e28d680bacde0a0a84a456e9af46b",
+            "avsRegistrations": {
+                "0x9fc952bdcbb7daca7d420fa55b942405b073a89d": true,
+                "0x870679e138bcdf293b7ff14dd44b70fc97e12fc0": true
+            }
+        },
+        {
+            "operatorAddress": "0xeb6a4540cfd0d55bc222314f96938b523cc925c1",
+            "avsRegistrations": {
+                "0x9fc952bdcbb7daca7d420fa55b942405b073a89d": true,
+                "0x870679e138bcdf293b7ff14dd44b70fc97e12fc0": true
+            }
+        },
+        {
+            "operatorAddress": "0x6828073867abd8b9e3e28d9e64acb67c5c2789ec",
+            "avsRegistrations": {
+                "0x870679e138bcdf293b7ff14dd44b70fc97e12fc0": true
+            }
+        },
+        {
+            "operatorAddress": "0x5873ee31494277edea74a96308e1727cfafe7bcf",
+            "avsRegistrations": {
+                "0x870679e138bcdf293b7ff14dd44b70fc97e12fc0": true,
+                "0x23221c5bb90c7c57ecc1e75513e2e4257673f0ef": true
+            }
+        },
+        {
+            "operatorAddress": "0xf0452f2d9758ec02373612f5f1a83bbd3ff66e5d",
+            "avsRegistrations": {
+                "0x23221c5bb90c7c57ecc1e75513e2e4257673f0ef": true,
+                "0xd25c2c5802198cb8541987b73a8db4c9bcae5cc7": true
+            }
+        },
+        {
+            "operatorAddress": "0xdfcb21ac9b99de986d99f4ce5fce2a6542efe3a1",
+            "avsRegistrations": {
+                "0x870679e138bcdf293b7ff14dd44b70fc97e12fc0": true,
+                "0x6026b61bdd2252160691cb3f6005b6b72e0ec044": true,
+                "0x71a77037870169d47aad6c2c9360861a4c0df2bf": true,
+                "0x23221c5bb90c7c57ecc1e75513e2e4257673f0ef": true,
+                "0xd25c2c5802198cb8541987b73a8db4c9bcae5cc7": true,
+                "0x35f4f28a8d3ff20eed10e087e8f96ea2641e6aa2": true,
+                "0x9fc952bdcbb7daca7d420fa55b942405b073a89d": true
+            }
+        },
+        {
+            "operatorAddress": "0xe2d4d0c522b8e9b7d88932d02f9993f2fddb7c52",
+            "avsRegistrations": {
+                "0x870679e138bcdf293b7ff14dd44b70fc97e12fc0": true
+            }
+        },
+        {
+            "operatorAddress": "0x18b305eca7305b92a56f6050e502df5e87c561a8",
+            "avsRegistrations": {
+                "0x870679e138bcdf293b7ff14dd44b70fc97e12fc0": true,
+                "0x22cac0e6a1465f043428e8aef737b3cb09d0eeda": true
+            }
+        },
+        {
+            "operatorAddress": "0xa026265a0f01a6e1a19b04655519429df0a57c4e",
+            "avsRegistrations": {
+                "0x870679e138bcdf293b7ff14dd44b70fc97e12fc0": true,
+                "0x35f4f28a8d3ff20eed10e087e8f96ea2641e6aa2": true,
+                "0xd50e0931703302b080880c45148f5d83ea66ae2a": true,
+                "0x9fc952bdcbb7daca7d420fa55b942405b073a89d": true,
+                "0xe5445838c475a2980e6a88054ff1514230b83aeb": true,
+                "0x23221c5bb90c7c57ecc1e75513e2e4257673f0ef": true,
+                "0xf7fcff55d5fdaf2c3bbeb140be5e62a2c7d26db3": true,
+                "0xd25c2c5802198cb8541987b73a8db4c9bcae5cc7": true,
+                "0x22cac0e6a1465f043428e8aef737b3cb09d0eeda": true,
+                "0x1f2c296448f692af840843d993ffc0546619dcdb": true
+            }
+        },
+        {
+            "operatorAddress": "0xf626508e2f65614841cde2f3052cdc214eb13685",
+            "avsRegistrations": {
+                "0x870679e138bcdf293b7ff14dd44b70fc97e12fc0": true
+            }
+        },
+        {
+            "operatorAddress": "0xa5c98f9c0fa19e3ff91947fb66bbbc2e728398ae",
+            "avsRegistrations": {
+                "0x870679e138bcdf293b7ff14dd44b70fc97e12fc0": true,
+                "0x23221c5bb90c7c57ecc1e75513e2e4257673f0ef": true
+            }
+        },
+        {
+            "operatorAddress": "0xd417324c0568c504231f707d87000d45595a3fa3",
+            "avsRegistrations": {
+                "0x870679e138bcdf293b7ff14dd44b70fc97e12fc0": true
+            }
+        },
+        {
+            "operatorAddress": "0x0713cd9686cd160bbe2f4376c5adee44d0e2ed18",
+            "avsRegistrations": {
+                "0x870679e138bcdf293b7ff14dd44b70fc97e12fc0": true
+            }
+        },
+        {
+            "operatorAddress": "0x72355fa820dbe85ccdc9d6a81afa75f8de6b5766",
+            "avsRegistrations": {
+                "0x23221c5bb90c7c57ecc1e75513e2e4257673f0ef": true,
+                "0x9fc952bdcbb7daca7d420fa55b942405b073a89d": true,
+                "0x870679e138bcdf293b7ff14dd44b70fc97e12fc0": true
+            }
+        },
+        {
+            "operatorAddress": "0x1c4b8717a3eff560c49d09e7409819cb81fece4b",
+            "avsRegistrations": {
+                "0x870679e138bcdf293b7ff14dd44b70fc97e12fc0": true
+            }
+        },
+        {
+            "operatorAddress": "0x76b74fec12e08aa324525b64844a487f5e036f7d",
+            "avsRegistrations": {
+                "0x870679e138bcdf293b7ff14dd44b70fc97e12fc0": true
+            }
+        },
+        {
+            "operatorAddress": "0x96fc0751e0febe7296d4625500f8e4535a002c7d",
+            "avsRegistrations": {
+                "0x870679e138bcdf293b7ff14dd44b70fc97e12fc0": true,
+                "0x23221c5bb90c7c57ecc1e75513e2e4257673f0ef": true,
+                "0x35f4f28a8d3ff20eed10e087e8f96ea2641e6aa2": true,
+                "0xd25c2c5802198cb8541987b73a8db4c9bcae5cc7": true,
+                "0xe5445838c475a2980e6a88054ff1514230b83aeb": true,
+                "0xf7fcff55d5fdaf2c3bbeb140be5e62a2c7d26db3": true,
+                "0x22cac0e6a1465f043428e8aef737b3cb09d0eeda": true
+            }
+        },
+        {
+            "operatorAddress": "0x39d28046344d499aa629e6d23893a3a7ee8e1432",
+            "avsRegistrations": {
+                "0x870679e138bcdf293b7ff14dd44b70fc97e12fc0": true
+            }
+        },
+        {
+            "operatorAddress": "0x7e3cede5c77cd4192d206c652db0023a89d7e5ec",
+            "avsRegistrations": {
+                "0x870679e138bcdf293b7ff14dd44b70fc97e12fc0": true,
+                "0x23221c5bb90c7c57ecc1e75513e2e4257673f0ef": true,
+                "0xd25c2c5802198cb8541987b73a8db4c9bcae5cc7": true,
+                "0x35f4f28a8d3ff20eed10e087e8f96ea2641e6aa2": true,
+                "0xf7fcff55d5fdaf2c3bbeb140be5e62a2c7d26db3": true,
+                "0xe5445838c475a2980e6a88054ff1514230b83aeb": true,
+                "0x22cac0e6a1465f043428e8aef737b3cb09d0eeda": true
+            }
+        },
+        {
+            "operatorAddress": "0x4d06c95af685e4167d6d7846b8a3f8f11fcbb939",
+            "avsRegistrations": {
+                "0x870679e138bcdf293b7ff14dd44b70fc97e12fc0": true,
+                "0xe5445838c475a2980e6a88054ff1514230b83aeb": true,
+                "0xd50e0931703302b080880c45148f5d83ea66ae2a": true,
+                "0xd25c2c5802198cb8541987b73a8db4c9bcae5cc7": true,
+                "0x23221c5bb90c7c57ecc1e75513e2e4257673f0ef": true,
+                "0x35f4f28a8d3ff20eed10e087e8f96ea2641e6aa2": true,
+                "0xf7fcff55d5fdaf2c3bbeb140be5e62a2c7d26db3": true,
+                "0x22cac0e6a1465f043428e8aef737b3cb09d0eeda": true,
+                "0x1f2c296448f692af840843d993ffc0546619dcdb": true
+            }
+        },
+        {
+            "operatorAddress": "0x92085054ed0c51e0710f741ca88f456637f07256",
+            "avsRegistrations": {
+                "0x870679e138bcdf293b7ff14dd44b70fc97e12fc0": true
+            }
+        },
+        {
+            "operatorAddress": "0x79da91f6a3ef9c52e1a312ac8c320d9257a54fef",
+            "avsRegistrations": {
+                "0x870679e138bcdf293b7ff14dd44b70fc97e12fc0": true
+            }
+        },
+        {
+            "operatorAddress": "0xbf76d0ed9f1cb11c97f3292f16f7aea21c2dc7c3",
+            "avsRegistrations": {
+                "0x870679e138bcdf293b7ff14dd44b70fc97e12fc0": true,
+                "0x23221c5bb90c7c57ecc1e75513e2e4257673f0ef": true
+            }
+        },
+        {
+            "operatorAddress": "0xe4e936a5615859e7e5c8eb09191fd613f6072b34",
+            "avsRegistrations": {
+                "0x870679e138bcdf293b7ff14dd44b70fc97e12fc0": true,
+                "0xd25c2c5802198cb8541987b73a8db4c9bcae5cc7": true,
+                "0xf7fcff55d5fdaf2c3bbeb140be5e62a2c7d26db3": true,
+                "0x07e26bf8060e33fa3771d88128b75493750515c1": true,
+                "0x22cac0e6a1465f043428e8aef737b3cb09d0eeda": true,
+                "0xe5445838c475a2980e6a88054ff1514230b83aeb": true
+            }
+        },
+        {
+            "operatorAddress": "0x257afa8fc5719c1b868bcd4f051ac54a3c6353f6",
+            "avsRegistrations": {
+                "0xe5445838c475a2980e6a88054ff1514230b83aeb": true
+            }
+        },
+        {
+            "operatorAddress": "0x5b9b3cf0202a1a3dc8f527257b7e6002d23d8c85",
+            "avsRegistrations": {
+                "0x870679e138bcdf293b7ff14dd44b70fc97e12fc0": true
+            }
+        },
+        {
+            "operatorAddress": "0x67943ae8e07bfc9f5c9a90d608f7923d9c21e051",
+            "avsRegistrations": {
+                "0x870679e138bcdf293b7ff14dd44b70fc97e12fc0": true
+            }
+        },
+        {
+            "operatorAddress": "0xec84951f01910eb716de5f16e4c1ee9a3482df06",
+            "avsRegistrations": {
+                "0xd25c2c5802198cb8541987b73a8db4c9bcae5cc7": true,
+                "0x35f4f28a8d3ff20eed10e087e8f96ea2641e6aa2": true,
+                "0x23221c5bb90c7c57ecc1e75513e2e4257673f0ef": true,
+                "0xe5445838c475a2980e6a88054ff1514230b83aeb": true,
+                "0xf7fcff55d5fdaf2c3bbeb140be5e62a2c7d26db3": true,
+                "0x870679e138bcdf293b7ff14dd44b70fc97e12fc0": true,
+                "0x22cac0e6a1465f043428e8aef737b3cb09d0eeda": true
+            }
+        },
+        {
+            "operatorAddress": "0x401f80e982018c5bfefb2dfc916521991c65fe76",
+            "avsRegistrations": {
+                "0xf7fcff55d5fdaf2c3bbeb140be5e62a2c7d26db3": true
+            }
+        },
+        {
+            "operatorAddress": "0xa4de33c36e123c4a2c677c8955bed02f847695f2",
+            "avsRegistrations": {
+                "0x870679e138bcdf293b7ff14dd44b70fc97e12fc0": true,
+                "0xe5445838c475a2980e6a88054ff1514230b83aeb": true,
+                "0x35f4f28a8d3ff20eed10e087e8f96ea2641e6aa2": true,
+                "0xd50e0931703302b080880c45148f5d83ea66ae2a": true,
+                "0xf7fcff55d5fdaf2c3bbeb140be5e62a2c7d26db3": true,
+                "0x23221c5bb90c7c57ecc1e75513e2e4257673f0ef": true,
+                "0x1f2c296448f692af840843d993ffc0546619dcdb": true
+            }
+        },
+        {
+            "operatorAddress": "0xbe7d5f26f5d5f567d35a86dd4d7d02aced2d5bff",
+            "avsRegistrations": {
+                "0x23221c5bb90c7c57ecc1e75513e2e4257673f0ef": true,
+                "0x35f4f28a8d3ff20eed10e087e8f96ea2641e6aa2": true,
+                "0x870679e138bcdf293b7ff14dd44b70fc97e12fc0": true,
+                "0x9fc952bdcbb7daca7d420fa55b942405b073a89d": true,
+                "0xd25c2c5802198cb8541987b73a8db4c9bcae5cc7": true,
+                "0xe5445838c475a2980e6a88054ff1514230b83aeb": true,
+                "0xf7fcff55d5fdaf2c3bbeb140be5e62a2c7d26db3": true,
+                "0x22cac0e6a1465f043428e8aef737b3cb09d0eeda": true
+            }
+        },
+        {
+            "operatorAddress": "0x5d4b5ef127c545e5bf8e247f9fcd4e75a0a366b4",
+            "avsRegistrations": {
+                "0x870679e138bcdf293b7ff14dd44b70fc97e12fc0": true
+            }
+        },
+        {
+            "operatorAddress": "0x2d4752d3cc4fcf8983541fb50e84f5e3042b50ac",
+            "avsRegistrations": {
+                "0x870679e138bcdf293b7ff14dd44b70fc97e12fc0": false
+            }
+        },
+        {
+            "operatorAddress": "0x8beef538986aeb2ee1a80b5e1febc16d8643a23d",
+            "avsRegistrations": {
+                "0x870679e138bcdf293b7ff14dd44b70fc97e12fc0": true
+            }
+        },
+        {
+            "operatorAddress": "0x3601bda2b72628da309ab9df7d310ada38cae44c",
+            "avsRegistrations": {
+                "0x35f4f28a8d3ff20eed10e087e8f96ea2641e6aa2": true
+            }
+        },
+        {
+            "operatorAddress": "0x8e7e7176d3470c6c2efe71004f496a6ef422a56f",
+            "avsRegistrations": {
+                "0x870679e138bcdf293b7ff14dd44b70fc97e12fc0": true,
+                "0x9fc952bdcbb7daca7d420fa55b942405b073a89d": true
+            }
+        },
+        {
+            "operatorAddress": "0xd972a58b6a582954e578455e4752b12f2c8fcdbc",
+            "avsRegistrations": {
+                "0x870679e138bcdf293b7ff14dd44b70fc97e12fc0": true
+            }
+        },
+        {
+            "operatorAddress": "0xb585cb192855253d33ddbdac2d20f50085ef8d41",
+            "avsRegistrations": {
+                "0x870679e138bcdf293b7ff14dd44b70fc97e12fc0": true
+            }
+        },
+        {
+            "operatorAddress": "0xe25e96c1c22ea1be437b8ffd4236bfdf0e541250",
+            "avsRegistrations": {
+                "0xf7fcff55d5fdaf2c3bbeb140be5e62a2c7d26db3": true,
+                "0x870679e138bcdf293b7ff14dd44b70fc97e12fc0": true,
+                "0x22cac0e6a1465f043428e8aef737b3cb09d0eeda": true
+            }
+        },
+        {
+            "operatorAddress": "0xd7890b468b1ed9effad20cc809f44e590622b735",
+            "avsRegistrations": {
+                "0x870679e138bcdf293b7ff14dd44b70fc97e12fc0": true
+            }
+        },
+        {
+            "operatorAddress": "0x57408df5cf54a92b7fe50f45c94e7d950be52f95",
+            "avsRegistrations": {
+                "0x870679e138bcdf293b7ff14dd44b70fc97e12fc0": true
+            }
+        },
+        {
+            "operatorAddress": "0xa58b9efb3d88b85670c3e7abd6b29f458e4ec78f",
+            "avsRegistrations": {
+                "0x870679e138bcdf293b7ff14dd44b70fc97e12fc0": true
+            }
+        },
+        {
+            "operatorAddress": "0xea2d67a6be1f0a0ccf58068bc209749f8137b4a7",
+            "avsRegistrations": {
+                "0x870679e138bcdf293b7ff14dd44b70fc97e12fc0": true
+            }
+        },
+        {
+            "operatorAddress": "0x8270a48b7270c06843ccfb1eeeda95ffaf7e4840",
+            "avsRegistrations": {
+                "0x870679e138bcdf293b7ff14dd44b70fc97e12fc0": true
+            }
+        },
+        {
+            "operatorAddress": "0x70b35732428e5164c7f0c45e8b30aec8a2725923",
+            "avsRegistrations": {
+                "0x870679e138bcdf293b7ff14dd44b70fc97e12fc0": true
+            }
+        },
+        {
+            "operatorAddress": "0xfd2e5a871cf5c1892d8e8b522923835f9f2ee940",
+            "avsRegistrations": {
+                "0x870679e138bcdf293b7ff14dd44b70fc97e12fc0": true
+            }
+        },
+        {
+            "operatorAddress": "0x51b38dfab8b4266e0cdd76bfa6941792ae19738d",
+            "avsRegistrations": {
+                "0x870679e138bcdf293b7ff14dd44b70fc97e12fc0": true
+            }
+        },
+        {
+            "operatorAddress": "0x990371deee5f3aca7e968bc45e424ab0a20566c3",
+            "avsRegistrations": {
+                "0x870679e138bcdf293b7ff14dd44b70fc97e12fc0": true
+            }
+        },
+        {
+            "operatorAddress": "0xe89f99550778f39acb2e0b9e606089b47d68dd97",
+            "avsRegistrations": {
+                "0x870679e138bcdf293b7ff14dd44b70fc97e12fc0": true
+            }
+        },
+        {
+            "operatorAddress": "0x1519de724bed0cc59acfdbbcb8f6534474cc1a8e",
+            "avsRegistrations": {
+                "0x870679e138bcdf293b7ff14dd44b70fc97e12fc0": false
+            }
+        },
+        {
+            "operatorAddress": "0x89342f7c5514daad991fc64b500148d47a0ed21c",
+            "avsRegistrations": {
+                "0x870679e138bcdf293b7ff14dd44b70fc97e12fc0": true
+            }
+        },
+        {
+            "operatorAddress": "0xa1c4200332ebe98b30e17d20e369f789039fe4de",
+            "avsRegistrations": {
+                "0x870679e138bcdf293b7ff14dd44b70fc97e12fc0": true
+            }
+        },
+        {
+            "operatorAddress": "0x0d5bc48c65d7c827dae681018794dac0339d7797",
+            "avsRegistrations": {
+                "0x870679e138bcdf293b7ff14dd44b70fc97e12fc0": true
+            }
+        },
+        {
+            "operatorAddress": "0x508d94d7ae92aed0ffb12421e4fcc2d966e082ca",
+            "avsRegistrations": {
+                "0x870679e138bcdf293b7ff14dd44b70fc97e12fc0": true
+            }
+        },
+        {
+            "operatorAddress": "0xb0a7aec1e6491b060db403f4574420e5ba5f4e97",
+            "avsRegistrations": {
+                "0x870679e138bcdf293b7ff14dd44b70fc97e12fc0": true
+            }
+        },
+        {
+            "operatorAddress": "0xf609700812d92dd008bbe265d0a7c93c8f61f776",
+            "avsRegistrations": {
+                "0x870679e138bcdf293b7ff14dd44b70fc97e12fc0": true
+            }
+        },
+        {
+            "operatorAddress": "0x229a629ee1452abd1c4b29fef5d9eab4f41c8876",
+            "avsRegistrations": {
+                "0x870679e138bcdf293b7ff14dd44b70fc97e12fc0": true
+            }
+        },
+        {
+            "operatorAddress": "0x99d81d73fdb63fc8ee9f8b51dbaf238b222d69b6",
+            "avsRegistrations": {
+                "0x870679e138bcdf293b7ff14dd44b70fc97e12fc0": true
+            }
+        },
+        {
+            "operatorAddress": "0x047438c5ceaa6d47e8691b51f5b34c6d41a00e3d",
+            "avsRegistrations": {
+                "0x870679e138bcdf293b7ff14dd44b70fc97e12fc0": true
+            }
+        },
+        {
+            "operatorAddress": "0xdc8549220b568de4561564e7a1ba648bf8500ff8",
+            "avsRegistrations": {
+                "0x870679e138bcdf293b7ff14dd44b70fc97e12fc0": true
+            }
+        },
+        {
+            "operatorAddress": "0xde8acde0a13242e6361b324a87bf7b2526e4a27c",
+            "avsRegistrations": {
+                "0x870679e138bcdf293b7ff14dd44b70fc97e12fc0": true
+            }
+        },
+        {
+            "operatorAddress": "0xfc837b01d4196dca9d441e42ac792484bab96d11",
+            "avsRegistrations": {
+                "0x870679e138bcdf293b7ff14dd44b70fc97e12fc0": true
+            }
+        },
+        {
+            "operatorAddress": "0x01a7c2568693d65a367fde016b48c63f6673d4dc",
+            "avsRegistrations": {
+                "0x870679e138bcdf293b7ff14dd44b70fc97e12fc0": true
+            }
+        },
+        {
+            "operatorAddress": "0x7d1ddc2266ce31f33d6dc7b5568debb60fdcf95e",
+            "avsRegistrations": {
+                "0x870679e138bcdf293b7ff14dd44b70fc97e12fc0": true
+            }
+        },
+        {
+            "operatorAddress": "0xc20bd2c20b49473a27233c95ca2fdf2ee73c7e7f",
+            "avsRegistrations": {
+                "0x870679e138bcdf293b7ff14dd44b70fc97e12fc0": true
+            }
+        },
+        {
+            "operatorAddress": "0xd757ff59a99a82dfe20353028a15bbb101bc3131",
+            "avsRegistrations": {
+                "0x870679e138bcdf293b7ff14dd44b70fc97e12fc0": true
+            }
+        },
+        {
+            "operatorAddress": "0xde286602572a0016cfccf3e570f7132814940c10",
+            "avsRegistrations": {
+                "0x870679e138bcdf293b7ff14dd44b70fc97e12fc0": true
+            }
+        },
+        {
+            "operatorAddress": "0x64a8d8fd4006fae6b09956348789df12ce59e4d7",
+            "avsRegistrations": {
+                "0x870679e138bcdf293b7ff14dd44b70fc97e12fc0": true
+            }
+        },
+        {
+            "operatorAddress": "0xa3c6bf9a5027bd95b98d438658aacf58711f2364",
+            "avsRegistrations": {
+                "0x870679e138bcdf293b7ff14dd44b70fc97e12fc0": true
+            }
+        },
+        {
+            "operatorAddress": "0x80213c006b41613eda8517f313758a8476e3219f",
+            "avsRegistrations": {
+                "0x870679e138bcdf293b7ff14dd44b70fc97e12fc0": true
+            }
+        },
+        {
+            "operatorAddress": "0x986eed7496d095f74bab48970212bb9900f41f0a",
+            "avsRegistrations": {
+                "0x870679e138bcdf293b7ff14dd44b70fc97e12fc0": true
+            }
+        },
+        {
+            "operatorAddress": "0xa1243da7ab8a1683da4c0785ac827ce478699c5d",
+            "avsRegistrations": {
+                "0x870679e138bcdf293b7ff14dd44b70fc97e12fc0": true,
+                "0x23221c5bb90c7c57ecc1e75513e2e4257673f0ef": true
+            }
+        },
+        {
+            "operatorAddress": "0x15a8cfc07eb07587eafab0ee6fabcec4cbd6a1af",
+            "avsRegistrations": {
+                "0x870679e138bcdf293b7ff14dd44b70fc97e12fc0": true,
+                "0x23221c5bb90c7c57ecc1e75513e2e4257673f0ef": true
+            }
+        },
+        {
+            "operatorAddress": "0xa803dcd6ca44b79896f9f31a8dfd0eb0d957ae59",
+            "avsRegistrations": {
+                "0x870679e138bcdf293b7ff14dd44b70fc97e12fc0": true
+            }
+        },
+        {
+            "operatorAddress": "0xa5cb68a2f4f6d325ae09cf46403baa5ab6c6ec90",
+            "avsRegistrations": {
+                "0x870679e138bcdf293b7ff14dd44b70fc97e12fc0": true
+            }
+        },
+        {
+            "operatorAddress": "0x0736404d0f4882f315ea91cd881d3d1ddd23fd2d",
+            "avsRegistrations": {
+                "0x870679e138bcdf293b7ff14dd44b70fc97e12fc0": true
+            }
+        },
+        {
+            "operatorAddress": "0x240f63a746ae03fcc7a89363d4630a80d5f3d43d",
+            "avsRegistrations": {
+                "0x870679e138bcdf293b7ff14dd44b70fc97e12fc0": true
+            }
+        },
+        {
+            "operatorAddress": "0xc59fe4b105b88a4e5085127d9349b5d08cda5203",
+            "avsRegistrations": {
+                "0x870679e138bcdf293b7ff14dd44b70fc97e12fc0": true
+            }
+        },
+        {
+            "operatorAddress": "0xf2052a62ddbaf8c9a28f9e5ad11d5a6791745a0c",
+            "avsRegistrations": {
+                "0x870679e138bcdf293b7ff14dd44b70fc97e12fc0": true
+            }
+        },
+        {
+            "operatorAddress": "0xfeef74fe4a269bc59ae064aed7059424c41483fd",
+            "avsRegistrations": {
+                "0x870679e138bcdf293b7ff14dd44b70fc97e12fc0": true
+            }
+        },
+        {
+            "operatorAddress": "0x860721536af5d673e5ac2b5e350fd11f3192f8d9",
+            "avsRegistrations": {
+                "0x870679e138bcdf293b7ff14dd44b70fc97e12fc0": true
+            }
+        },
+        {
+            "operatorAddress": "0x0ed62c1b664fd43ce96cbbbf9491249a9d6d522b",
+            "avsRegistrations": {
+                "0x870679e138bcdf293b7ff14dd44b70fc97e12fc0": true
+            }
+        },
+        {
+            "operatorAddress": "0xa1e45a73fb92f0c01da3fef012321762b720c00f",
+            "avsRegistrations": {
+                "0x870679e138bcdf293b7ff14dd44b70fc97e12fc0": true,
+                "0x23221c5bb90c7c57ecc1e75513e2e4257673f0ef": true
+            }
+        },
+        {
+            "operatorAddress": "0x2e0df822f3248124dea0e2cea40cf8de0f8b9dd6",
+            "avsRegistrations": {
+                "0x870679e138bcdf293b7ff14dd44b70fc97e12fc0": true
+            }
+        },
+        {
+            "operatorAddress": "0xb90c16909a129c87a0af1aa34408d90361ef3b7c",
+            "avsRegistrations": {
+                "0x870679e138bcdf293b7ff14dd44b70fc97e12fc0": false
+            }
+        },
+        {
+            "operatorAddress": "0xd25a3ea397487630271e301ac2f73aca0dd799fb",
+            "avsRegistrations": {
+                "0x870679e138bcdf293b7ff14dd44b70fc97e12fc0": false
+            }
+        },
+        {
+            "operatorAddress": "0x4d07c24143744bd4bc38365c20601a00de531656",
+            "avsRegistrations": {
+                "0x870679e138bcdf293b7ff14dd44b70fc97e12fc0": false
+            }
+        },
+        {
+            "operatorAddress": "0xec6c7e7ebf93a885a4feb7740a25bacfb32bd659",
+            "avsRegistrations": {
+                "0x870679e138bcdf293b7ff14dd44b70fc97e12fc0": false
+            }
+        },
+        {
+            "operatorAddress": "0x785e9714d69f1af15a4d3fda5ee63c925899831b",
+            "avsRegistrations": {
+                "0x870679e138bcdf293b7ff14dd44b70fc97e12fc0": false
+            }
+        },
+        {
+            "operatorAddress": "0x973ca3d1b5e90f4bb65a2d08789fa88b5a1cb56e",
+            "avsRegistrations": {
+                "0x870679e138bcdf293b7ff14dd44b70fc97e12fc0": false
+            }
+        },
+        {
+            "operatorAddress": "0x59e45778827603aa03a9270efe34d8abc80f98eb",
+            "avsRegistrations": {
+                "0x870679e138bcdf293b7ff14dd44b70fc97e12fc0": false
+            }
+        },
+        {
+            "operatorAddress": "0xd99b2e164f9f29e530fe40d4a0d8c60f5159b393",
+            "avsRegistrations": {
+                "0x870679e138bcdf293b7ff14dd44b70fc97e12fc0": true
+            }
+        },
+        {
+            "operatorAddress": "0x617a001405d5c505d85311b2b48cd36a6ca105b8",
+            "avsRegistrations": {
+                "0x870679e138bcdf293b7ff14dd44b70fc97e12fc0": true
+            }
+        },
+        {
+            "operatorAddress": "0xff69e7a4f8664a8f6407717a6eda87eb4492a74f",
+            "avsRegistrations": {
+                "0x870679e138bcdf293b7ff14dd44b70fc97e12fc0": true
+            }
+        },
+        {
+            "operatorAddress": "0x90373a17f7a2d4e45d8ddb30a969305102f8f347",
+            "avsRegistrations": {
+                "0x870679e138bcdf293b7ff14dd44b70fc97e12fc0": true
+            }
+        },
+        {
+            "operatorAddress": "0xcefcde1c99934293793740097ea5f7734bb06680",
+            "avsRegistrations": {
+                "0x870679e138bcdf293b7ff14dd44b70fc97e12fc0": true
+            }
+        },
+        {
+            "operatorAddress": "0x5b1b9e8c341fbcc29f7a261184382d040cbc8b23",
+            "avsRegistrations": {
+                "0x870679e138bcdf293b7ff14dd44b70fc97e12fc0": true
+            }
+        },
+        {
+            "operatorAddress": "0x12f7d1ccde72c684370eb332b4907d0dd21e4995",
+            "avsRegistrations": {
+                "0x870679e138bcdf293b7ff14dd44b70fc97e12fc0": true
+            }
+        },
+        {
+            "operatorAddress": "0xd15dce23dbfb29c59154bf7952c089da2a05a933",
+            "avsRegistrations": {
+                "0x870679e138bcdf293b7ff14dd44b70fc97e12fc0": true
+            }
+        },
+        {
+            "operatorAddress": "0x8bf408beb413ff757660add060584ea78dab5122",
+            "avsRegistrations": {
+                "0x870679e138bcdf293b7ff14dd44b70fc97e12fc0": true
+            }
+        },
+        {
+            "operatorAddress": "0x90a6fe85373b6eac20a31369e4ca14f496ba005d",
+            "avsRegistrations": {
+                "0x870679e138bcdf293b7ff14dd44b70fc97e12fc0": true
+            }
+        },
+        {
+            "operatorAddress": "0x89b5a7265acd9332e2e6121f1d9a6e3a1ae2b1ed",
+            "avsRegistrations": {
+                "0x870679e138bcdf293b7ff14dd44b70fc97e12fc0": true
+            }
+        },
+        {
+            "operatorAddress": "0xc10c954332c0c17f1003bb2c77e8c0122ef9bdb8",
+            "avsRegistrations": {
+                "0x870679e138bcdf293b7ff14dd44b70fc97e12fc0": true,
+                "0x23221c5bb90c7c57ecc1e75513e2e4257673f0ef": true
+            }
+        },
+        {
+            "operatorAddress": "0xead201c9191a19ada411bcd16fb8ac1191c40740",
+            "avsRegistrations": {
+                "0x23221c5bb90c7c57ecc1e75513e2e4257673f0ef": true,
+                "0x870679e138bcdf293b7ff14dd44b70fc97e12fc0": true
+            }
+        },
+        {
+            "operatorAddress": "0x83ad906943f715c2c6b879f74f8404b91bebac40",
+            "avsRegistrations": {
+                "0x870679e138bcdf293b7ff14dd44b70fc97e12fc0": true
+            }
+        },
+        {
+            "operatorAddress": "0x4d7c3fc856ab52753b91a6c9213adf013309dd25",
+            "avsRegistrations": {
+                "0x870679e138bcdf293b7ff14dd44b70fc97e12fc0": true,
+                "0xe5445838c475a2980e6a88054ff1514230b83aeb": true,
+                "0x23221c5bb90c7c57ecc1e75513e2e4257673f0ef": true,
+                "0x35f4f28a8d3ff20eed10e087e8f96ea2641e6aa2": true,
+                "0x1f2c296448f692af840843d993ffc0546619dcdb": true
+            }
+        },
+        {
+            "operatorAddress": "0xdd6859450e80665db854022e85fb0ed2f0240cb9",
+            "avsRegistrations": {
+                "0xe5445838c475a2980e6a88054ff1514230b83aeb": true,
+                "0x870679e138bcdf293b7ff14dd44b70fc97e12fc0": true,
+                "0x23221c5bb90c7c57ecc1e75513e2e4257673f0ef": true,
+                "0x35f4f28a8d3ff20eed10e087e8f96ea2641e6aa2": true
+            }
+        },
+        {
+            "operatorAddress": "0xe48e7102c03812dfa1fdf0bbe6dbba6dc70b0f33",
+            "avsRegistrations": {
+                "0x870679e138bcdf293b7ff14dd44b70fc97e12fc0": true,
+                "0xe5445838c475a2980e6a88054ff1514230b83aeb": true,
+                "0x23221c5bb90c7c57ecc1e75513e2e4257673f0ef": true,
+                "0x35f4f28a8d3ff20eed10e087e8f96ea2641e6aa2": true
+            }
+        },
+        {
+            "operatorAddress": "0xbae5172d39d852c3115bd200ec4d9947b7270179",
+            "avsRegistrations": {
+                "0x870679e138bcdf293b7ff14dd44b70fc97e12fc0": true
+            }
+        },
+        {
+            "operatorAddress": "0x86595e9c6ecf9e0a656efb4e45377630be59f1aa",
+            "avsRegistrations": {
+                "0x870679e138bcdf293b7ff14dd44b70fc97e12fc0": true
+            }
+        },
+        {
+            "operatorAddress": "0xffed2c14005d332b388fb3b3be3f745bc886653c",
+            "avsRegistrations": {
+                "0x870679e138bcdf293b7ff14dd44b70fc97e12fc0": true
+            }
+        },
+        {
+            "operatorAddress": "0x1c96a1430559e7db6800b46be9dab079b6bb5ef6",
+            "avsRegistrations": {
+                "0x870679e138bcdf293b7ff14dd44b70fc97e12fc0": true,
+                "0x23221c5bb90c7c57ecc1e75513e2e4257673f0ef": true
+            }
+        },
+        {
+            "operatorAddress": "0x0506cb768e497e60fe8cd1fc83242b7c64e92fac",
+            "avsRegistrations": {
+                "0x870679e138bcdf293b7ff14dd44b70fc97e12fc0": true
+            }
+        },
+        {
+            "operatorAddress": "0x6345d277ae9df69d16a43b2e52d3817abeb79c42",
+            "avsRegistrations": {
+                "0x870679e138bcdf293b7ff14dd44b70fc97e12fc0": true
+            }
+        },
+        {
+            "operatorAddress": "0x065a1ac0262711d5fd90494dbc986601f77004cc",
+            "avsRegistrations": {
+                "0x870679e138bcdf293b7ff14dd44b70fc97e12fc0": true
+            }
+        },
+        {
+            "operatorAddress": "0xcec63830c7ec8c7a36959ccf487ba0a055fba58b",
+            "avsRegistrations": {
+                "0x870679e138bcdf293b7ff14dd44b70fc97e12fc0": true
+            }
+        },
+        {
+            "operatorAddress": "0x42d61874ea21bea75170029ea422f44211399a4b",
+            "avsRegistrations": {
+                "0x870679e138bcdf293b7ff14dd44b70fc97e12fc0": true
+            }
+        },
+        {
+            "operatorAddress": "0xa33f68239d35e32e2aaa544e5ff4591227704357",
+            "avsRegistrations": {
+                "0x870679e138bcdf293b7ff14dd44b70fc97e12fc0": true
+            }
+        },
+        {
+            "operatorAddress": "0x853355e9d8efacde6b214ac02991d489e75d0b0f",
+            "avsRegistrations": {
+                "0x870679e138bcdf293b7ff14dd44b70fc97e12fc0": true
+            }
+        },
+        {
+            "operatorAddress": "0x59639aeee35c4108923fd16e66055b347fbeadd2",
+            "avsRegistrations": {
+                "0x870679e138bcdf293b7ff14dd44b70fc97e12fc0": true,
+                "0xe5445838c475a2980e6a88054ff1514230b83aeb": true,
+                "0x23221c5bb90c7c57ecc1e75513e2e4257673f0ef": true,
+                "0x35f4f28a8d3ff20eed10e087e8f96ea2641e6aa2": true,
+                "0x22cac0e6a1465f043428e8aef737b3cb09d0eeda": true,
+                "0x1f2c296448f692af840843d993ffc0546619dcdb": true
+            }
+        },
+        {
+            "operatorAddress": "0x175da1e44c8fbf124714a3bba5dc18a7e65664d6",
+            "avsRegistrations": {
+                "0x870679e138bcdf293b7ff14dd44b70fc97e12fc0": true,
+                "0xe5445838c475a2980e6a88054ff1514230b83aeb": true,
+                "0x23221c5bb90c7c57ecc1e75513e2e4257673f0ef": true,
+                "0x35f4f28a8d3ff20eed10e087e8f96ea2641e6aa2": true
+            }
+        },
+        {
+            "operatorAddress": "0x73f23013c5a4c209de945cdc58595a4d53d23084",
+            "avsRegistrations": {
+                "0x870679e138bcdf293b7ff14dd44b70fc97e12fc0": true,
+                "0xe5445838c475a2980e6a88054ff1514230b83aeb": true,
+                "0x23221c5bb90c7c57ecc1e75513e2e4257673f0ef": true,
+                "0x35f4f28a8d3ff20eed10e087e8f96ea2641e6aa2": true
+            }
+        },
+        {
+            "operatorAddress": "0x7798e01eb21284c5f82b234989fd2704821da081",
+            "avsRegistrations": {
+                "0x23221c5bb90c7c57ecc1e75513e2e4257673f0ef": true
+            }
+        },
+        {
+            "operatorAddress": "0xe9c7c49ac136c9e465cf328f9e66bb389593fd5a",
+            "avsRegistrations": {
+                "0x870679e138bcdf293b7ff14dd44b70fc97e12fc0": true,
+                "0x23221c5bb90c7c57ecc1e75513e2e4257673f0ef": true
+            }
+        },
+        {
+            "operatorAddress": "0x8c81d590cc94ca2451c4bde24c598193da74a575",
+            "avsRegistrations": {
+                "0x870679e138bcdf293b7ff14dd44b70fc97e12fc0": true,
+                "0xe5445838c475a2980e6a88054ff1514230b83aeb": true,
+                "0x23221c5bb90c7c57ecc1e75513e2e4257673f0ef": true,
+                "0x35f4f28a8d3ff20eed10e087e8f96ea2641e6aa2": true
+            }
+        },
+        {
+            "operatorAddress": "0xe3e788cb79ebdc74d70104f14341607002e3850b",
+            "avsRegistrations": {
+                "0xe5445838c475a2980e6a88054ff1514230b83aeb": true
+            }
+        },
+        {
+            "operatorAddress": "0xdd89080f7ae6bca274bf78b6ffad5d578a8d80e0",
+            "avsRegistrations": {
+                "0x23221c5bb90c7c57ecc1e75513e2e4257673f0ef": true
+            }
+        },
+        {
+            "operatorAddress": "0x13e44d8a724ed426254ed8df1e1daef1b2002297",
+            "avsRegistrations": {
+                "0x870679e138bcdf293b7ff14dd44b70fc97e12fc0": true
+            }
+        },
+        {
+            "operatorAddress": "0xde7a0cbbb869376e062c473be57ce43ead4060ff",
+            "avsRegistrations": {
+                "0x870679e138bcdf293b7ff14dd44b70fc97e12fc0": true
+            }
+        },
+        {
+            "operatorAddress": "0x4d03c107f811f018a0d708d65fc2aa74dc7af42b",
+            "avsRegistrations": {
+                "0x870679e138bcdf293b7ff14dd44b70fc97e12fc0": true
+            }
+        },
+        {
+            "operatorAddress": "0x187de4deb9495ec15a5dff5c4f131d29dd18fbac",
+            "avsRegistrations": {
+                "0x71a77037870169d47aad6c2c9360861a4c0df2bf": true,
+                "0x6026b61bdd2252160691cb3f6005b6b72e0ec044": true,
+                "0xd50e0931703302b080880c45148f5d83ea66ae2a": true
+            }
+        },
+        {
+            "operatorAddress": "0xdf25bdcdcdd9a3dd8c9069306c4dba8d90dd8e8e",
+            "avsRegistrations": {
+                "0x23221c5bb90c7c57ecc1e75513e2e4257673f0ef": true,
+                "0x870679e138bcdf293b7ff14dd44b70fc97e12fc0": true,
+                "0xd25c2c5802198cb8541987b73a8db4c9bcae5cc7": true
+            }
+        },
+        {
+            "operatorAddress": "0x3e5876329fb80ae1f67c9b22bd5d1ba8cc2afa52",
+            "avsRegistrations": {
+                "0x870679e138bcdf293b7ff14dd44b70fc97e12fc0": true
+            }
+        },
+        {
+            "operatorAddress": "0x7c16f31791bb89b22123a5687deabcdf01e54414",
+            "avsRegistrations": {
+                "0xf7fcff55d5fdaf2c3bbeb140be5e62a2c7d26db3": true
+            }
+        },
+        {
+            "operatorAddress": "0x9e661cda8a5fc1f4dc27fe5900404c6015aabe6c",
+            "avsRegistrations": {
+                "0xb6827e919b55b45290cf54f006ee4a231e06f088": true
+            }
+        },
+        {
+            "operatorAddress": "0x0bcb1f2f6f772b52c2271a9fc061a6c94814a843",
+            "avsRegistrations": {
+                "0x870679e138bcdf293b7ff14dd44b70fc97e12fc0": true
+            }
+        },
+        {
+            "operatorAddress": "0x42d929aeb3e5cd67eafe4c92576f1399aefc1188",
+            "avsRegistrations": {
+                "0x870679e138bcdf293b7ff14dd44b70fc97e12fc0": true
+            }
+        },
+        {
+            "operatorAddress": "0x033bfb405e809a303df875a6e018f1a64e5dbae9",
+            "avsRegistrations": {
+                "0x870679e138bcdf293b7ff14dd44b70fc97e12fc0": true
+            }
+        },
+        {
+            "operatorAddress": "0xc27b425dd56827145d28ef5b5eebab867e338278",
+            "avsRegistrations": {
+                "0x870679e138bcdf293b7ff14dd44b70fc97e12fc0": true
+            }
+        },
+        {
+            "operatorAddress": "0x7b3b7a2219ff93dc6c8b07ed8d0a6d124a76d46e",
+            "avsRegistrations": {
+                "0x870679e138bcdf293b7ff14dd44b70fc97e12fc0": true
+            }
+        },
+        {
+            "operatorAddress": "0xdc39be4fd9284468e5a9c77212b0b519510d746c",
+            "avsRegistrations": {
+                "0x870679e138bcdf293b7ff14dd44b70fc97e12fc0": true
+            }
+        },
+        {
+            "operatorAddress": "0xb1f9b22e850cd8f1aa5df96c8bdd9f1f43c21ec7",
+            "avsRegistrations": {
+                "0x870679e138bcdf293b7ff14dd44b70fc97e12fc0": true
+            }
+        },
+        {
+            "operatorAddress": "0x4fc3f282d06e204857645bfff892d980768f3b2b",
+            "avsRegistrations": {
+                "0x870679e138bcdf293b7ff14dd44b70fc97e12fc0": true
+            }
+        },
+        {
+            "operatorAddress": "0xa46e452389cfff116ea496bba50646b02695334a",
+            "avsRegistrations": {
+                "0x870679e138bcdf293b7ff14dd44b70fc97e12fc0": true
+            }
+        },
+        {
+            "operatorAddress": "0x9cd5cd721d10a5b6c3467cd2251b27de8c3684a1",
+            "avsRegistrations": {
+                "0x870679e138bcdf293b7ff14dd44b70fc97e12fc0": true
+            }
+        },
+        {
+            "operatorAddress": "0xa95fc64b79ad513154f625b82f0209ce06135bc1",
+            "avsRegistrations": {
+                "0x870679e138bcdf293b7ff14dd44b70fc97e12fc0": true
+            }
+        },
+        {
+            "operatorAddress": "0x4c2f3eb39306db811bf8cf6eacf8c77cabc38e93",
+            "avsRegistrations": {
+                "0x1de75eaab2df55d467494a172652579e6fa4540e": true
+            }
+        },
+        {
+            "operatorAddress": "0xab575112f70993b1afe118892254ff7087e1f6f1",
+            "avsRegistrations": {
+                "0x1de75eaab2df55d467494a172652579e6fa4540e": true
+            }
+        },
+        {
+            "operatorAddress": "0xad9d46fc7a7f7605ce60931bf7bec512866c4c72",
+            "avsRegistrations": {
+                "0x1de75eaab2df55d467494a172652579e6fa4540e": true
+            }
+        },
+        {
+            "operatorAddress": "0x6bd4b34e9ed84c8178e995628bf1b14caf47a529",
+            "avsRegistrations": {
+                "0x07e26bf8060e33fa3771d88128b75493750515c1": true
+            }
+        },
+        {
+            "operatorAddress": "0x455a086b8de40d0fea1f5224a45a4ece45470767",
+            "avsRegistrations": {
+                "0x870679e138bcdf293b7ff14dd44b70fc97e12fc0": true
+            }
+        },
+        {
+            "operatorAddress": "0x006b988f89579e5842bcd029955dfbfc334b6826",
+            "avsRegistrations": {
+                "0x870679e138bcdf293b7ff14dd44b70fc97e12fc0": true
+            }
+        },
+        {
+            "operatorAddress": "0xb712857bc6725fa6fa844a11c82681b943303b32",
+            "avsRegistrations": {
+                "0x870679e138bcdf293b7ff14dd44b70fc97e12fc0": true
+            }
+        },
+        {
+            "operatorAddress": "0x48d9af04991ea429baf473b5528e40373fe6be1f",
+            "avsRegistrations": {
+                "0x870679e138bcdf293b7ff14dd44b70fc97e12fc0": true
+            }
+        },
+        {
+            "operatorAddress": "0x4405e1bf209a0c44b4284ef793fd986e256144b3",
+            "avsRegistrations": {
+                "0x870679e138bcdf293b7ff14dd44b70fc97e12fc0": true
+            }
+        },
+        {
+            "operatorAddress": "0x80ed776bf47342e4b9144fde63777630a5a58dcd",
+            "avsRegistrations": {
+                "0x870679e138bcdf293b7ff14dd44b70fc97e12fc0": true
+            }
+        },
+        {
+            "operatorAddress": "0xf4033dadf39f6591b36cb2c1eea351bcba8ab090",
+            "avsRegistrations": {
+                "0x870679e138bcdf293b7ff14dd44b70fc97e12fc0": true
+            }
+        },
+        {
+            "operatorAddress": "0x32d26764ce06e9cd711a646caa6c2789fcf2f691",
+            "avsRegistrations": {
+                "0x870679e138bcdf293b7ff14dd44b70fc97e12fc0": true
+            }
+        },
+        {
+            "operatorAddress": "0x31a95d169d834e2a51d1e37699f2c016233307e3",
+            "avsRegistrations": {
+                "0x870679e138bcdf293b7ff14dd44b70fc97e12fc0": true
+            }
+        },
+        {
+            "operatorAddress": "0x18749e8248f8f92ad6a982b54b4564b1c214ebfc",
+            "avsRegistrations": {
+                "0x870679e138bcdf293b7ff14dd44b70fc97e12fc0": true
+            }
+        },
+        {
+            "operatorAddress": "0xb3aa2e7217ca121a87c48fc9f2a056e7833889ad",
+            "avsRegistrations": {
+                "0x870679e138bcdf293b7ff14dd44b70fc97e12fc0": true
+            }
+        },
+        {
+            "operatorAddress": "0xa7609c00f7550e6f5204164d1570ff8eb9ffbd7a",
+            "avsRegistrations": {
+                "0x870679e138bcdf293b7ff14dd44b70fc97e12fc0": true
+            }
+        },
+        {
+            "operatorAddress": "0xf15eaa57f6dd71786a9eb633268afa350194637f",
+            "avsRegistrations": {
+                "0x870679e138bcdf293b7ff14dd44b70fc97e12fc0": true
+            }
+        },
+        {
+            "operatorAddress": "0xcd5e259b59e2fa00f1a136b008e4fde5ae20b888",
+            "avsRegistrations": {
+                "0x870679e138bcdf293b7ff14dd44b70fc97e12fc0": true
+            }
+        },
+        {
+            "operatorAddress": "0x0f4e73f02e2b78f424a8e3f8e8553761c305f4d1",
+            "avsRegistrations": {
+                "0x23221c5bb90c7c57ecc1e75513e2e4257673f0ef": true
+            }
+        },
+        {
+            "operatorAddress": "0x6c56645c750d7e394a7f82da9e9c7b79a4d476b8",
+            "avsRegistrations": {
+                "0x870679e138bcdf293b7ff14dd44b70fc97e12fc0": true
+            }
+        },
+        {
+            "operatorAddress": "0xfbbf8546caad79f74891afeb65ee1766955b26e1",
+            "avsRegistrations": {
+                "0xd25c2c5802198cb8541987b73a8db4c9bcae5cc7": true
+            }
+        },
+        {
+            "operatorAddress": "0x794a15082bc31c81e370f6600fba047f7226dab4",
+            "avsRegistrations": {
+                "0x870679e138bcdf293b7ff14dd44b70fc97e12fc0": true
+            }
+        },
+        {
+            "operatorAddress": "0xdceb204dcf4dac25282de6526a255adfa48a3040",
+            "avsRegistrations": {
+                "0x870679e138bcdf293b7ff14dd44b70fc97e12fc0": true
+            }
+        },
+        {
+            "operatorAddress": "0xa376115db30a016d931dfa8534ca5af48032b9ca",
+            "avsRegistrations": {
+                "0x870679e138bcdf293b7ff14dd44b70fc97e12fc0": true
+            }
+        }
+    ]
+}
